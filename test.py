@@ -29,7 +29,7 @@ parser.add_argument('--data_dir', default=r'F:\dataset\MICCAI_BraTS_2018_Data_Va
 parser.add_argument('--exp_name', default='', type=str, help='experiment name')
 parser.add_argument('--json_list', default='./jsons/brats23_folds_v.json', type=str, help='dataset json file')
 parser.add_argument('--fold', default=-1, type=int, help='data fold')
-parser.add_argument('--pretrained_model_name', default='model_epoch999.pt', type=str, help='pretrained model name')
+parser.add_argument('--pretrained_model_name', default='model.pt', type=str, help='pretrained model name')
 parser.add_argument('--feature_size', default=16, type=int, help='feature size')
 parser.add_argument('--infer_overlap', default=0.6, type=float, help='sliding window inference overlap')
 parser.add_argument('--in_channels', default=4, type=int, help='number of input channels')

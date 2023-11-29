@@ -8,6 +8,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+import os
 
 import torch
 import numpy as np
@@ -17,7 +18,7 @@ import torch.nn.functional as F
 from monai.networks.blocks import Convolution, ResidualUnit
 
 from utils import vecquantile
-
+import nibabel as nib
 
 def dice(x, y):
     intersect = np.sum(np.sum(np.sum(x * y)))
@@ -164,6 +165,49 @@ def quantile_threshold(features):
         quant.add(batch)
     ret = quant.readout(1000)[:, int(1000 * (1-0.005)-1)]
     return ret
+def load_images( ID, PATH_DATA='./', DIM=(192, 224, 160), VALID_SET=True):
+    img1 = os.path.join(PATH_DATA, ID, ID + '_flair.nii.gz')
+    img2 = os.path.join(PATH_DATA, ID, ID + '_t1.nii.gz')
+    img3 = os.path.join(PATH_DATA, ID, ID + '_t1ce.nii.gz')
+    img4 = os.path.join(PATH_DATA, ID, ID + '_t2.nii.gz')
+
+    # combine the four imaging modalities (flair, t1, t1ce, t2)
+    imgs_input = nib.concat_images([img1, img2, img3, img4],).get_fdata()
+
+    imgs_preprocess = np.zeros((DIM[0], DIM[1], DIM[2], 4))  # (5, 192, 224, 160)
+    if VALID_SET:
+        for i in range(imgs_preprocess.shape[-1]):
+            imgs_preprocess[:, :, :, i] = crop_image_brats(imgs_input[:, :, :, i],OUT_SHAPE=DIM)
+            imgs_preprocess[:, :, :, i] = norm_image(imgs_preprocess[:, :, :, i])
+
+    return imgs_preprocess[np.newaxis, ...]
+
+def crop_image_brats(img, OUT_SHAPE=(192, 224, 160)):
+    # manual cropping
+    input_shape = np.array(img.shape)
+    # center the cropped image
+    offset = np.array((input_shape - OUT_SHAPE) / 2).astype(np.int8)
+    offset[offset < 0] = 0
+    x, y, z = offset
+    crop_img = img[x:x + OUT_SHAPE[0], y:y + OUT_SHAPE[1], z:z + OUT_SHAPE[2]]
+    # pad the preprocessed image
+    padded_img = np.zeros(OUT_SHAPE)
+    x, y, z = np.array((OUT_SHAPE - np.array(crop_img.shape)) / 2).astype(np.int8)
+    padded_img[x:x + crop_img.shape[0], y:y + crop_img.shape[1], z:z + crop_img.shape[2]] = crop_img
+    return padded_img
+
+def norm_image(img, NORM_TYP="norm"):
+    if NORM_TYP == "standard_norm": # standarization, same dataset
+        img_mean = img.mean()
+        img_std = img.std()
+        img_std = 1 if img.std()==0 else img.std()
+        img = (img - img_mean) / img_std
+    elif NORM_TYP == "norm": # different datasets
+        img = (img - np.min(img))/(np.ptp(img)) # (np.max(img) - np.min(img))
+    elif NORM_TYP == "norm_slow": # different datasets
+        img_ptp = 1 if np.ptp(img)== 0 else np.ptp(img)
+        img = (img - np.min(img))/img_ptp
+    return img
 
 def cross_entropy(x, y, α=0.9):
     student_probs = torch.sigmoid(x)

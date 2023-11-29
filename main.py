@@ -35,10 +35,10 @@ parser = argparse.ArgumentParser(description='Swin UNETR segmentation pipeline f
 parser.add_argument('--checkpoint', default=None, help='start training from saved checkpoint')
 parser.add_argument('--logdir', default='test', type=str, help='directory to save the tensorboard logs')
 parser.add_argument('--fold', default=-1, type=int, help='data fold')
-parser.add_argument('--pretrainedT_dir', type=str, default="./pretrained_models/2020/MUnet32-64-128-256-512_ep1000_2",
+parser.add_argument('--pretrainedT_dir', type=str, default="teacher pretrained model",
                     help='pretrained checkpoint directory')
 parser.add_argument('--pretrained_model_name', type=str, default='model.pt', help='pretrained model name')
-parser.add_argument('--data_dir', type=str, default="E:\Datasets\MICCAI_BraTS2020_TrainingData",
+parser.add_argument('--data_dir', type=str, default="datasetsDir",
                     help='dataset directory')
 parser.add_argument('--json_list', type=str, default="./jsons/brats20_folds.json", help='dataset json file')
 parser.add_argument('--save_checkpoint', action='store_true', help='save checkpoint during training')
@@ -87,8 +87,7 @@ parser.add_argument('--use_checkpoint', action='store_true', help='use gradient 
 parser.add_argument('--spatial_dims', default=3, type=int, help='spatial dimension of input data')
 parser.add_argument('--small_teacher_alpha', default=0.5, type=float, help='small teacher kd loss alpha')
 parser.add_argument('--large_teacher_alpha', default=0.5, type=float, help='large teacher kd loss alpha')
-parser.add_argument('--pretrained_dir', type=str, default="./pretrained/2020/MUnet32-64-128-256-512_ep1000_2",
-                    help='pretrained checkpoint directory')
+parser.add_argument('--pretrained_dir', type=str, help='student pretrained checkpoint directory')
 parser.add_argument('--squared_dice', action='store_true', help='use squared Dice')
 parser.add_argument('--kl_kd', default='True', help='Use KL loss for conducts kd')
 parser.add_argument('--kd_alpha', default=0.1, type=float, help='kd_alpha')
