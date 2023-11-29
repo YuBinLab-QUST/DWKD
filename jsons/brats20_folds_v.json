@@ -1,0 +1,1129 @@
+{
+  "training": [
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_001/BraTS20_Validation_001_flair.nii.gz",
+        "BraTS20_Validation_001/BraTS20_Validation_001_t1.nii.gz",
+        "BraTS20_Validation_001/BraTS20_Validation_001_t1ce.nii.gz",
+        "BraTS20_Validation_001/BraTS20_Validation_001_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_002/BraTS20_Validation_002_flair.nii.gz",
+        "BraTS20_Validation_002/BraTS20_Validation_002_t1.nii.gz",
+        "BraTS20_Validation_002/BraTS20_Validation_002_t1ce.nii.gz",
+        "BraTS20_Validation_002/BraTS20_Validation_002_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_003/BraTS20_Validation_003_flair.nii.gz",
+        "BraTS20_Validation_003/BraTS20_Validation_003_t1.nii.gz",
+        "BraTS20_Validation_003/BraTS20_Validation_003_t1ce.nii.gz",
+        "BraTS20_Validation_003/BraTS20_Validation_003_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_004/BraTS20_Validation_004_flair.nii.gz",
+        "BraTS20_Validation_004/BraTS20_Validation_004_t1.nii.gz",
+        "BraTS20_Validation_004/BraTS20_Validation_004_t1ce.nii.gz",
+        "BraTS20_Validation_004/BraTS20_Validation_004_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_005/BraTS20_Validation_005_flair.nii.gz",
+        "BraTS20_Validation_005/BraTS20_Validation_005_t1.nii.gz",
+        "BraTS20_Validation_005/BraTS20_Validation_005_t1ce.nii.gz",
+        "BraTS20_Validation_005/BraTS20_Validation_005_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_006/BraTS20_Validation_006_flair.nii.gz",
+        "BraTS20_Validation_006/BraTS20_Validation_006_t1.nii.gz",
+        "BraTS20_Validation_006/BraTS20_Validation_006_t1ce.nii.gz",
+        "BraTS20_Validation_006/BraTS20_Validation_006_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_007/BraTS20_Validation_007_flair.nii.gz",
+        "BraTS20_Validation_007/BraTS20_Validation_007_t1.nii.gz",
+        "BraTS20_Validation_007/BraTS20_Validation_007_t1ce.nii.gz",
+        "BraTS20_Validation_007/BraTS20_Validation_007_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_008/BraTS20_Validation_008_flair.nii.gz",
+        "BraTS20_Validation_008/BraTS20_Validation_008_t1.nii.gz",
+        "BraTS20_Validation_008/BraTS20_Validation_008_t1ce.nii.gz",
+        "BraTS20_Validation_008/BraTS20_Validation_008_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_009/BraTS20_Validation_009_flair.nii.gz",
+        "BraTS20_Validation_009/BraTS20_Validation_009_t1.nii.gz",
+        "BraTS20_Validation_009/BraTS20_Validation_009_t1ce.nii.gz",
+        "BraTS20_Validation_009/BraTS20_Validation_009_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_010/BraTS20_Validation_010_flair.nii.gz",
+        "BraTS20_Validation_010/BraTS20_Validation_010_t1.nii.gz",
+        "BraTS20_Validation_010/BraTS20_Validation_010_t1ce.nii.gz",
+        "BraTS20_Validation_010/BraTS20_Validation_010_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_011/BraTS20_Validation_011_flair.nii.gz",
+        "BraTS20_Validation_011/BraTS20_Validation_011_t1.nii.gz",
+        "BraTS20_Validation_011/BraTS20_Validation_011_t1ce.nii.gz",
+        "BraTS20_Validation_011/BraTS20_Validation_011_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_012/BraTS20_Validation_012_flair.nii.gz",
+        "BraTS20_Validation_012/BraTS20_Validation_012_t1.nii.gz",
+        "BraTS20_Validation_012/BraTS20_Validation_012_t1ce.nii.gz",
+        "BraTS20_Validation_012/BraTS20_Validation_012_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_013/BraTS20_Validation_013_flair.nii.gz",
+        "BraTS20_Validation_013/BraTS20_Validation_013_t1.nii.gz",
+        "BraTS20_Validation_013/BraTS20_Validation_013_t1ce.nii.gz",
+        "BraTS20_Validation_013/BraTS20_Validation_013_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_014/BraTS20_Validation_014_flair.nii.gz",
+        "BraTS20_Validation_014/BraTS20_Validation_014_t1.nii.gz",
+        "BraTS20_Validation_014/BraTS20_Validation_014_t1ce.nii.gz",
+        "BraTS20_Validation_014/BraTS20_Validation_014_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_015/BraTS20_Validation_015_flair.nii.gz",
+        "BraTS20_Validation_015/BraTS20_Validation_015_t1.nii.gz",
+        "BraTS20_Validation_015/BraTS20_Validation_015_t1ce.nii.gz",
+        "BraTS20_Validation_015/BraTS20_Validation_015_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_016/BraTS20_Validation_016_flair.nii.gz",
+        "BraTS20_Validation_016/BraTS20_Validation_016_t1.nii.gz",
+        "BraTS20_Validation_016/BraTS20_Validation_016_t1ce.nii.gz",
+        "BraTS20_Validation_016/BraTS20_Validation_016_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_017/BraTS20_Validation_017_flair.nii.gz",
+        "BraTS20_Validation_017/BraTS20_Validation_017_t1.nii.gz",
+        "BraTS20_Validation_017/BraTS20_Validation_017_t1ce.nii.gz",
+        "BraTS20_Validation_017/BraTS20_Validation_017_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_018/BraTS20_Validation_018_flair.nii.gz",
+        "BraTS20_Validation_018/BraTS20_Validation_018_t1.nii.gz",
+        "BraTS20_Validation_018/BraTS20_Validation_018_t1ce.nii.gz",
+        "BraTS20_Validation_018/BraTS20_Validation_018_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_019/BraTS20_Validation_019_flair.nii.gz",
+        "BraTS20_Validation_019/BraTS20_Validation_019_t1.nii.gz",
+        "BraTS20_Validation_019/BraTS20_Validation_019_t1ce.nii.gz",
+        "BraTS20_Validation_019/BraTS20_Validation_019_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_020/BraTS20_Validation_020_flair.nii.gz",
+        "BraTS20_Validation_020/BraTS20_Validation_020_t1.nii.gz",
+        "BraTS20_Validation_020/BraTS20_Validation_020_t1ce.nii.gz",
+        "BraTS20_Validation_020/BraTS20_Validation_020_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_021/BraTS20_Validation_021_flair.nii.gz",
+        "BraTS20_Validation_021/BraTS20_Validation_021_t1.nii.gz",
+        "BraTS20_Validation_021/BraTS20_Validation_021_t1ce.nii.gz",
+        "BraTS20_Validation_021/BraTS20_Validation_021_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_022/BraTS20_Validation_022_flair.nii.gz",
+        "BraTS20_Validation_022/BraTS20_Validation_022_t1.nii.gz",
+        "BraTS20_Validation_022/BraTS20_Validation_022_t1ce.nii.gz",
+        "BraTS20_Validation_022/BraTS20_Validation_022_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_023/BraTS20_Validation_023_flair.nii.gz",
+        "BraTS20_Validation_023/BraTS20_Validation_023_t1.nii.gz",
+        "BraTS20_Validation_023/BraTS20_Validation_023_t1ce.nii.gz",
+        "BraTS20_Validation_023/BraTS20_Validation_023_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_024/BraTS20_Validation_024_flair.nii.gz",
+        "BraTS20_Validation_024/BraTS20_Validation_024_t1.nii.gz",
+        "BraTS20_Validation_024/BraTS20_Validation_024_t1ce.nii.gz",
+        "BraTS20_Validation_024/BraTS20_Validation_024_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_025/BraTS20_Validation_025_flair.nii.gz",
+        "BraTS20_Validation_025/BraTS20_Validation_025_t1.nii.gz",
+        "BraTS20_Validation_025/BraTS20_Validation_025_t1ce.nii.gz",
+        "BraTS20_Validation_025/BraTS20_Validation_025_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_026/BraTS20_Validation_026_flair.nii.gz",
+        "BraTS20_Validation_026/BraTS20_Validation_026_t1.nii.gz",
+        "BraTS20_Validation_026/BraTS20_Validation_026_t1ce.nii.gz",
+        "BraTS20_Validation_026/BraTS20_Validation_026_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_027/BraTS20_Validation_027_flair.nii.gz",
+        "BraTS20_Validation_027/BraTS20_Validation_027_t1.nii.gz",
+        "BraTS20_Validation_027/BraTS20_Validation_027_t1ce.nii.gz",
+        "BraTS20_Validation_027/BraTS20_Validation_027_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_028/BraTS20_Validation_028_flair.nii.gz",
+        "BraTS20_Validation_028/BraTS20_Validation_028_t1.nii.gz",
+        "BraTS20_Validation_028/BraTS20_Validation_028_t1ce.nii.gz",
+        "BraTS20_Validation_028/BraTS20_Validation_028_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_029/BraTS20_Validation_029_flair.nii.gz",
+        "BraTS20_Validation_029/BraTS20_Validation_029_t1.nii.gz",
+        "BraTS20_Validation_029/BraTS20_Validation_029_t1ce.nii.gz",
+        "BraTS20_Validation_029/BraTS20_Validation_029_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_030/BraTS20_Validation_030_flair.nii.gz",
+        "BraTS20_Validation_030/BraTS20_Validation_030_t1.nii.gz",
+        "BraTS20_Validation_030/BraTS20_Validation_030_t1ce.nii.gz",
+        "BraTS20_Validation_030/BraTS20_Validation_030_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_031/BraTS20_Validation_031_flair.nii.gz",
+        "BraTS20_Validation_031/BraTS20_Validation_031_t1.nii.gz",
+        "BraTS20_Validation_031/BraTS20_Validation_031_t1ce.nii.gz",
+        "BraTS20_Validation_031/BraTS20_Validation_031_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_032/BraTS20_Validation_032_flair.nii.gz",
+        "BraTS20_Validation_032/BraTS20_Validation_032_t1.nii.gz",
+        "BraTS20_Validation_032/BraTS20_Validation_032_t1ce.nii.gz",
+        "BraTS20_Validation_032/BraTS20_Validation_032_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_033/BraTS20_Validation_033_flair.nii.gz",
+        "BraTS20_Validation_033/BraTS20_Validation_033_t1.nii.gz",
+        "BraTS20_Validation_033/BraTS20_Validation_033_t1ce.nii.gz",
+        "BraTS20_Validation_033/BraTS20_Validation_033_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_034/BraTS20_Validation_034_flair.nii.gz",
+        "BraTS20_Validation_034/BraTS20_Validation_034_t1.nii.gz",
+        "BraTS20_Validation_034/BraTS20_Validation_034_t1ce.nii.gz",
+        "BraTS20_Validation_034/BraTS20_Validation_034_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_035/BraTS20_Validation_035_flair.nii.gz",
+        "BraTS20_Validation_035/BraTS20_Validation_035_t1.nii.gz",
+        "BraTS20_Validation_035/BraTS20_Validation_035_t1ce.nii.gz",
+        "BraTS20_Validation_035/BraTS20_Validation_035_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_036/BraTS20_Validation_036_flair.nii.gz",
+        "BraTS20_Validation_036/BraTS20_Validation_036_t1.nii.gz",
+        "BraTS20_Validation_036/BraTS20_Validation_036_t1ce.nii.gz",
+        "BraTS20_Validation_036/BraTS20_Validation_036_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_037/BraTS20_Validation_037_flair.nii.gz",
+        "BraTS20_Validation_037/BraTS20_Validation_037_t1.nii.gz",
+        "BraTS20_Validation_037/BraTS20_Validation_037_t1ce.nii.gz",
+        "BraTS20_Validation_037/BraTS20_Validation_037_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_038/BraTS20_Validation_038_flair.nii.gz",
+        "BraTS20_Validation_038/BraTS20_Validation_038_t1.nii.gz",
+        "BraTS20_Validation_038/BraTS20_Validation_038_t1ce.nii.gz",
+        "BraTS20_Validation_038/BraTS20_Validation_038_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_039/BraTS20_Validation_039_flair.nii.gz",
+        "BraTS20_Validation_039/BraTS20_Validation_039_t1.nii.gz",
+        "BraTS20_Validation_039/BraTS20_Validation_039_t1ce.nii.gz",
+        "BraTS20_Validation_039/BraTS20_Validation_039_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_040/BraTS20_Validation_040_flair.nii.gz",
+        "BraTS20_Validation_040/BraTS20_Validation_040_t1.nii.gz",
+        "BraTS20_Validation_040/BraTS20_Validation_040_t1ce.nii.gz",
+        "BraTS20_Validation_040/BraTS20_Validation_040_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_041/BraTS20_Validation_041_flair.nii.gz",
+        "BraTS20_Validation_041/BraTS20_Validation_041_t1.nii.gz",
+        "BraTS20_Validation_041/BraTS20_Validation_041_t1ce.nii.gz",
+        "BraTS20_Validation_041/BraTS20_Validation_041_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_042/BraTS20_Validation_042_flair.nii.gz",
+        "BraTS20_Validation_042/BraTS20_Validation_042_t1.nii.gz",
+        "BraTS20_Validation_042/BraTS20_Validation_042_t1ce.nii.gz",
+        "BraTS20_Validation_042/BraTS20_Validation_042_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_043/BraTS20_Validation_043_flair.nii.gz",
+        "BraTS20_Validation_043/BraTS20_Validation_043_t1.nii.gz",
+        "BraTS20_Validation_043/BraTS20_Validation_043_t1ce.nii.gz",
+        "BraTS20_Validation_043/BraTS20_Validation_043_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_044/BraTS20_Validation_044_flair.nii.gz",
+        "BraTS20_Validation_044/BraTS20_Validation_044_t1.nii.gz",
+        "BraTS20_Validation_044/BraTS20_Validation_044_t1ce.nii.gz",
+        "BraTS20_Validation_044/BraTS20_Validation_044_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_045/BraTS20_Validation_045_flair.nii.gz",
+        "BraTS20_Validation_045/BraTS20_Validation_045_t1.nii.gz",
+        "BraTS20_Validation_045/BraTS20_Validation_045_t1ce.nii.gz",
+        "BraTS20_Validation_045/BraTS20_Validation_045_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_046/BraTS20_Validation_046_flair.nii.gz",
+        "BraTS20_Validation_046/BraTS20_Validation_046_t1.nii.gz",
+        "BraTS20_Validation_046/BraTS20_Validation_046_t1ce.nii.gz",
+        "BraTS20_Validation_046/BraTS20_Validation_046_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_047/BraTS20_Validation_047_flair.nii.gz",
+        "BraTS20_Validation_047/BraTS20_Validation_047_t1.nii.gz",
+        "BraTS20_Validation_047/BraTS20_Validation_047_t1ce.nii.gz",
+        "BraTS20_Validation_047/BraTS20_Validation_047_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_048/BraTS20_Validation_048_flair.nii.gz",
+        "BraTS20_Validation_048/BraTS20_Validation_048_t1.nii.gz",
+        "BraTS20_Validation_048/BraTS20_Validation_048_t1ce.nii.gz",
+        "BraTS20_Validation_048/BraTS20_Validation_048_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_049/BraTS20_Validation_049_flair.nii.gz",
+        "BraTS20_Validation_049/BraTS20_Validation_049_t1.nii.gz",
+        "BraTS20_Validation_049/BraTS20_Validation_049_t1ce.nii.gz",
+        "BraTS20_Validation_049/BraTS20_Validation_049_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_050/BraTS20_Validation_050_flair.nii.gz",
+        "BraTS20_Validation_050/BraTS20_Validation_050_t1.nii.gz",
+        "BraTS20_Validation_050/BraTS20_Validation_050_t1ce.nii.gz",
+        "BraTS20_Validation_050/BraTS20_Validation_050_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_051/BraTS20_Validation_051_flair.nii.gz",
+        "BraTS20_Validation_051/BraTS20_Validation_051_t1.nii.gz",
+        "BraTS20_Validation_051/BraTS20_Validation_051_t1ce.nii.gz",
+        "BraTS20_Validation_051/BraTS20_Validation_051_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_052/BraTS20_Validation_052_flair.nii.gz",
+        "BraTS20_Validation_052/BraTS20_Validation_052_t1.nii.gz",
+        "BraTS20_Validation_052/BraTS20_Validation_052_t1ce.nii.gz",
+        "BraTS20_Validation_052/BraTS20_Validation_052_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_053/BraTS20_Validation_053_flair.nii.gz",
+        "BraTS20_Validation_053/BraTS20_Validation_053_t1.nii.gz",
+        "BraTS20_Validation_053/BraTS20_Validation_053_t1ce.nii.gz",
+        "BraTS20_Validation_053/BraTS20_Validation_053_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_054/BraTS20_Validation_054_flair.nii.gz",
+        "BraTS20_Validation_054/BraTS20_Validation_054_t1.nii.gz",
+        "BraTS20_Validation_054/BraTS20_Validation_054_t1ce.nii.gz",
+        "BraTS20_Validation_054/BraTS20_Validation_054_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_055/BraTS20_Validation_055_flair.nii.gz",
+        "BraTS20_Validation_055/BraTS20_Validation_055_t1.nii.gz",
+        "BraTS20_Validation_055/BraTS20_Validation_055_t1ce.nii.gz",
+        "BraTS20_Validation_055/BraTS20_Validation_055_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_056/BraTS20_Validation_056_flair.nii.gz",
+        "BraTS20_Validation_056/BraTS20_Validation_056_t1.nii.gz",
+        "BraTS20_Validation_056/BraTS20_Validation_056_t1ce.nii.gz",
+        "BraTS20_Validation_056/BraTS20_Validation_056_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_057/BraTS20_Validation_057_flair.nii.gz",
+        "BraTS20_Validation_057/BraTS20_Validation_057_t1.nii.gz",
+        "BraTS20_Validation_057/BraTS20_Validation_057_t1ce.nii.gz",
+        "BraTS20_Validation_057/BraTS20_Validation_057_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_058/BraTS20_Validation_058_flair.nii.gz",
+        "BraTS20_Validation_058/BraTS20_Validation_058_t1.nii.gz",
+        "BraTS20_Validation_058/BraTS20_Validation_058_t1ce.nii.gz",
+        "BraTS20_Validation_058/BraTS20_Validation_058_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_059/BraTS20_Validation_059_flair.nii.gz",
+        "BraTS20_Validation_059/BraTS20_Validation_059_t1.nii.gz",
+        "BraTS20_Validation_059/BraTS20_Validation_059_t1ce.nii.gz",
+        "BraTS20_Validation_059/BraTS20_Validation_059_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_060/BraTS20_Validation_060_flair.nii.gz",
+        "BraTS20_Validation_060/BraTS20_Validation_060_t1.nii.gz",
+        "BraTS20_Validation_060/BraTS20_Validation_060_t1ce.nii.gz",
+        "BraTS20_Validation_060/BraTS20_Validation_060_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_061/BraTS20_Validation_061_flair.nii.gz",
+        "BraTS20_Validation_061/BraTS20_Validation_061_t1.nii.gz",
+        "BraTS20_Validation_061/BraTS20_Validation_061_t1ce.nii.gz",
+        "BraTS20_Validation_061/BraTS20_Validation_061_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_062/BraTS20_Validation_062_flair.nii.gz",
+        "BraTS20_Validation_062/BraTS20_Validation_062_t1.nii.gz",
+        "BraTS20_Validation_062/BraTS20_Validation_062_t1ce.nii.gz",
+        "BraTS20_Validation_062/BraTS20_Validation_062_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_063/BraTS20_Validation_063_flair.nii.gz",
+        "BraTS20_Validation_063/BraTS20_Validation_063_t1.nii.gz",
+        "BraTS20_Validation_063/BraTS20_Validation_063_t1ce.nii.gz",
+        "BraTS20_Validation_063/BraTS20_Validation_063_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_064/BraTS20_Validation_064_flair.nii.gz",
+        "BraTS20_Validation_064/BraTS20_Validation_064_t1.nii.gz",
+        "BraTS20_Validation_064/BraTS20_Validation_064_t1ce.nii.gz",
+        "BraTS20_Validation_064/BraTS20_Validation_064_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_065/BraTS20_Validation_065_flair.nii.gz",
+        "BraTS20_Validation_065/BraTS20_Validation_065_t1.nii.gz",
+        "BraTS20_Validation_065/BraTS20_Validation_065_t1ce.nii.gz",
+        "BraTS20_Validation_065/BraTS20_Validation_065_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_066/BraTS20_Validation_066_flair.nii.gz",
+        "BraTS20_Validation_066/BraTS20_Validation_066_t1.nii.gz",
+        "BraTS20_Validation_066/BraTS20_Validation_066_t1ce.nii.gz",
+        "BraTS20_Validation_066/BraTS20_Validation_066_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_067/BraTS20_Validation_067_flair.nii.gz",
+        "BraTS20_Validation_067/BraTS20_Validation_067_t1.nii.gz",
+        "BraTS20_Validation_067/BraTS20_Validation_067_t1ce.nii.gz",
+        "BraTS20_Validation_067/BraTS20_Validation_067_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_068/BraTS20_Validation_068_flair.nii.gz",
+        "BraTS20_Validation_068/BraTS20_Validation_068_t1.nii.gz",
+        "BraTS20_Validation_068/BraTS20_Validation_068_t1ce.nii.gz",
+        "BraTS20_Validation_068/BraTS20_Validation_068_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_069/BraTS20_Validation_069_flair.nii.gz",
+        "BraTS20_Validation_069/BraTS20_Validation_069_t1.nii.gz",
+        "BraTS20_Validation_069/BraTS20_Validation_069_t1ce.nii.gz",
+        "BraTS20_Validation_069/BraTS20_Validation_069_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_070/BraTS20_Validation_070_flair.nii.gz",
+        "BraTS20_Validation_070/BraTS20_Validation_070_t1.nii.gz",
+        "BraTS20_Validation_070/BraTS20_Validation_070_t1ce.nii.gz",
+        "BraTS20_Validation_070/BraTS20_Validation_070_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_071/BraTS20_Validation_071_flair.nii.gz",
+        "BraTS20_Validation_071/BraTS20_Validation_071_t1.nii.gz",
+        "BraTS20_Validation_071/BraTS20_Validation_071_t1ce.nii.gz",
+        "BraTS20_Validation_071/BraTS20_Validation_071_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_072/BraTS20_Validation_072_flair.nii.gz",
+        "BraTS20_Validation_072/BraTS20_Validation_072_t1.nii.gz",
+        "BraTS20_Validation_072/BraTS20_Validation_072_t1ce.nii.gz",
+        "BraTS20_Validation_072/BraTS20_Validation_072_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_073/BraTS20_Validation_073_flair.nii.gz",
+        "BraTS20_Validation_073/BraTS20_Validation_073_t1.nii.gz",
+        "BraTS20_Validation_073/BraTS20_Validation_073_t1ce.nii.gz",
+        "BraTS20_Validation_073/BraTS20_Validation_073_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_074/BraTS20_Validation_074_flair.nii.gz",
+        "BraTS20_Validation_074/BraTS20_Validation_074_t1.nii.gz",
+        "BraTS20_Validation_074/BraTS20_Validation_074_t1ce.nii.gz",
+        "BraTS20_Validation_074/BraTS20_Validation_074_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_075/BraTS20_Validation_075_flair.nii.gz",
+        "BraTS20_Validation_075/BraTS20_Validation_075_t1.nii.gz",
+        "BraTS20_Validation_075/BraTS20_Validation_075_t1ce.nii.gz",
+        "BraTS20_Validation_075/BraTS20_Validation_075_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_076/BraTS20_Validation_076_flair.nii.gz",
+        "BraTS20_Validation_076/BraTS20_Validation_076_t1.nii.gz",
+        "BraTS20_Validation_076/BraTS20_Validation_076_t1ce.nii.gz",
+        "BraTS20_Validation_076/BraTS20_Validation_076_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_077/BraTS20_Validation_077_flair.nii.gz",
+        "BraTS20_Validation_077/BraTS20_Validation_077_t1.nii.gz",
+        "BraTS20_Validation_077/BraTS20_Validation_077_t1ce.nii.gz",
+        "BraTS20_Validation_077/BraTS20_Validation_077_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_078/BraTS20_Validation_078_flair.nii.gz",
+        "BraTS20_Validation_078/BraTS20_Validation_078_t1.nii.gz",
+        "BraTS20_Validation_078/BraTS20_Validation_078_t1ce.nii.gz",
+        "BraTS20_Validation_078/BraTS20_Validation_078_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_079/BraTS20_Validation_079_flair.nii.gz",
+        "BraTS20_Validation_079/BraTS20_Validation_079_t1.nii.gz",
+        "BraTS20_Validation_079/BraTS20_Validation_079_t1ce.nii.gz",
+        "BraTS20_Validation_079/BraTS20_Validation_079_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_080/BraTS20_Validation_080_flair.nii.gz",
+        "BraTS20_Validation_080/BraTS20_Validation_080_t1.nii.gz",
+        "BraTS20_Validation_080/BraTS20_Validation_080_t1ce.nii.gz",
+        "BraTS20_Validation_080/BraTS20_Validation_080_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_081/BraTS20_Validation_081_flair.nii.gz",
+        "BraTS20_Validation_081/BraTS20_Validation_081_t1.nii.gz",
+        "BraTS20_Validation_081/BraTS20_Validation_081_t1ce.nii.gz",
+        "BraTS20_Validation_081/BraTS20_Validation_081_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_082/BraTS20_Validation_082_flair.nii.gz",
+        "BraTS20_Validation_082/BraTS20_Validation_082_t1.nii.gz",
+        "BraTS20_Validation_082/BraTS20_Validation_082_t1ce.nii.gz",
+        "BraTS20_Validation_082/BraTS20_Validation_082_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_083/BraTS20_Validation_083_flair.nii.gz",
+        "BraTS20_Validation_083/BraTS20_Validation_083_t1.nii.gz",
+        "BraTS20_Validation_083/BraTS20_Validation_083_t1ce.nii.gz",
+        "BraTS20_Validation_083/BraTS20_Validation_083_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_084/BraTS20_Validation_084_flair.nii.gz",
+        "BraTS20_Validation_084/BraTS20_Validation_084_t1.nii.gz",
+        "BraTS20_Validation_084/BraTS20_Validation_084_t1ce.nii.gz",
+        "BraTS20_Validation_084/BraTS20_Validation_084_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_085/BraTS20_Validation_085_flair.nii.gz",
+        "BraTS20_Validation_085/BraTS20_Validation_085_t1.nii.gz",
+        "BraTS20_Validation_085/BraTS20_Validation_085_t1ce.nii.gz",
+        "BraTS20_Validation_085/BraTS20_Validation_085_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_086/BraTS20_Validation_086_flair.nii.gz",
+        "BraTS20_Validation_086/BraTS20_Validation_086_t1.nii.gz",
+        "BraTS20_Validation_086/BraTS20_Validation_086_t1ce.nii.gz",
+        "BraTS20_Validation_086/BraTS20_Validation_086_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_087/BraTS20_Validation_087_flair.nii.gz",
+        "BraTS20_Validation_087/BraTS20_Validation_087_t1.nii.gz",
+        "BraTS20_Validation_087/BraTS20_Validation_087_t1ce.nii.gz",
+        "BraTS20_Validation_087/BraTS20_Validation_087_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_088/BraTS20_Validation_088_flair.nii.gz",
+        "BraTS20_Validation_088/BraTS20_Validation_088_t1.nii.gz",
+        "BraTS20_Validation_088/BraTS20_Validation_088_t1ce.nii.gz",
+        "BraTS20_Validation_088/BraTS20_Validation_088_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_089/BraTS20_Validation_089_flair.nii.gz",
+        "BraTS20_Validation_089/BraTS20_Validation_089_t1.nii.gz",
+        "BraTS20_Validation_089/BraTS20_Validation_089_t1ce.nii.gz",
+        "BraTS20_Validation_089/BraTS20_Validation_089_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_090/BraTS20_Validation_090_flair.nii.gz",
+        "BraTS20_Validation_090/BraTS20_Validation_090_t1.nii.gz",
+        "BraTS20_Validation_090/BraTS20_Validation_090_t1ce.nii.gz",
+        "BraTS20_Validation_090/BraTS20_Validation_090_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_091/BraTS20_Validation_091_flair.nii.gz",
+        "BraTS20_Validation_091/BraTS20_Validation_091_t1.nii.gz",
+        "BraTS20_Validation_091/BraTS20_Validation_091_t1ce.nii.gz",
+        "BraTS20_Validation_091/BraTS20_Validation_091_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_092/BraTS20_Validation_092_flair.nii.gz",
+        "BraTS20_Validation_092/BraTS20_Validation_092_t1.nii.gz",
+        "BraTS20_Validation_092/BraTS20_Validation_092_t1ce.nii.gz",
+        "BraTS20_Validation_092/BraTS20_Validation_092_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_093/BraTS20_Validation_093_flair.nii.gz",
+        "BraTS20_Validation_093/BraTS20_Validation_093_t1.nii.gz",
+        "BraTS20_Validation_093/BraTS20_Validation_093_t1ce.nii.gz",
+        "BraTS20_Validation_093/BraTS20_Validation_093_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_094/BraTS20_Validation_094_flair.nii.gz",
+        "BraTS20_Validation_094/BraTS20_Validation_094_t1.nii.gz",
+        "BraTS20_Validation_094/BraTS20_Validation_094_t1ce.nii.gz",
+        "BraTS20_Validation_094/BraTS20_Validation_094_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_095/BraTS20_Validation_095_flair.nii.gz",
+        "BraTS20_Validation_095/BraTS20_Validation_095_t1.nii.gz",
+        "BraTS20_Validation_095/BraTS20_Validation_095_t1ce.nii.gz",
+        "BraTS20_Validation_095/BraTS20_Validation_095_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_096/BraTS20_Validation_096_flair.nii.gz",
+        "BraTS20_Validation_096/BraTS20_Validation_096_t1.nii.gz",
+        "BraTS20_Validation_096/BraTS20_Validation_096_t1ce.nii.gz",
+        "BraTS20_Validation_096/BraTS20_Validation_096_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_097/BraTS20_Validation_097_flair.nii.gz",
+        "BraTS20_Validation_097/BraTS20_Validation_097_t1.nii.gz",
+        "BraTS20_Validation_097/BraTS20_Validation_097_t1ce.nii.gz",
+        "BraTS20_Validation_097/BraTS20_Validation_097_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_098/BraTS20_Validation_098_flair.nii.gz",
+        "BraTS20_Validation_098/BraTS20_Validation_098_t1.nii.gz",
+        "BraTS20_Validation_098/BraTS20_Validation_098_t1ce.nii.gz",
+        "BraTS20_Validation_098/BraTS20_Validation_098_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_099/BraTS20_Validation_099_flair.nii.gz",
+        "BraTS20_Validation_099/BraTS20_Validation_099_t1.nii.gz",
+        "BraTS20_Validation_099/BraTS20_Validation_099_t1ce.nii.gz",
+        "BraTS20_Validation_099/BraTS20_Validation_099_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_100/BraTS20_Validation_100_flair.nii.gz",
+        "BraTS20_Validation_100/BraTS20_Validation_100_t1.nii.gz",
+        "BraTS20_Validation_100/BraTS20_Validation_100_t1ce.nii.gz",
+        "BraTS20_Validation_100/BraTS20_Validation_100_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_101/BraTS20_Validation_101_flair.nii.gz",
+        "BraTS20_Validation_101/BraTS20_Validation_101_t1.nii.gz",
+        "BraTS20_Validation_101/BraTS20_Validation_101_t1ce.nii.gz",
+        "BraTS20_Validation_101/BraTS20_Validation_101_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_102/BraTS20_Validation_102_flair.nii.gz",
+        "BraTS20_Validation_102/BraTS20_Validation_102_t1.nii.gz",
+        "BraTS20_Validation_102/BraTS20_Validation_102_t1ce.nii.gz",
+        "BraTS20_Validation_102/BraTS20_Validation_102_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_103/BraTS20_Validation_103_flair.nii.gz",
+        "BraTS20_Validation_103/BraTS20_Validation_103_t1.nii.gz",
+        "BraTS20_Validation_103/BraTS20_Validation_103_t1ce.nii.gz",
+        "BraTS20_Validation_103/BraTS20_Validation_103_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_104/BraTS20_Validation_104_flair.nii.gz",
+        "BraTS20_Validation_104/BraTS20_Validation_104_t1.nii.gz",
+        "BraTS20_Validation_104/BraTS20_Validation_104_t1ce.nii.gz",
+        "BraTS20_Validation_104/BraTS20_Validation_104_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_105/BraTS20_Validation_105_flair.nii.gz",
+        "BraTS20_Validation_105/BraTS20_Validation_105_t1.nii.gz",
+        "BraTS20_Validation_105/BraTS20_Validation_105_t1ce.nii.gz",
+        "BraTS20_Validation_105/BraTS20_Validation_105_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_106/BraTS20_Validation_106_flair.nii.gz",
+        "BraTS20_Validation_106/BraTS20_Validation_106_t1.nii.gz",
+        "BraTS20_Validation_106/BraTS20_Validation_106_t1ce.nii.gz",
+        "BraTS20_Validation_106/BraTS20_Validation_106_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_107/BraTS20_Validation_107_flair.nii.gz",
+        "BraTS20_Validation_107/BraTS20_Validation_107_t1.nii.gz",
+        "BraTS20_Validation_107/BraTS20_Validation_107_t1ce.nii.gz",
+        "BraTS20_Validation_107/BraTS20_Validation_107_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_108/BraTS20_Validation_108_flair.nii.gz",
+        "BraTS20_Validation_108/BraTS20_Validation_108_t1.nii.gz",
+        "BraTS20_Validation_108/BraTS20_Validation_108_t1ce.nii.gz",
+        "BraTS20_Validation_108/BraTS20_Validation_108_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_109/BraTS20_Validation_109_flair.nii.gz",
+        "BraTS20_Validation_109/BraTS20_Validation_109_t1.nii.gz",
+        "BraTS20_Validation_109/BraTS20_Validation_109_t1ce.nii.gz",
+        "BraTS20_Validation_109/BraTS20_Validation_109_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_110/BraTS20_Validation_110_flair.nii.gz",
+        "BraTS20_Validation_110/BraTS20_Validation_110_t1.nii.gz",
+        "BraTS20_Validation_110/BraTS20_Validation_110_t1ce.nii.gz",
+        "BraTS20_Validation_110/BraTS20_Validation_110_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_111/BraTS20_Validation_111_flair.nii.gz",
+        "BraTS20_Validation_111/BraTS20_Validation_111_t1.nii.gz",
+        "BraTS20_Validation_111/BraTS20_Validation_111_t1ce.nii.gz",
+        "BraTS20_Validation_111/BraTS20_Validation_111_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_112/BraTS20_Validation_112_flair.nii.gz",
+        "BraTS20_Validation_112/BraTS20_Validation_112_t1.nii.gz",
+        "BraTS20_Validation_112/BraTS20_Validation_112_t1ce.nii.gz",
+        "BraTS20_Validation_112/BraTS20_Validation_112_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_113/BraTS20_Validation_113_flair.nii.gz",
+        "BraTS20_Validation_113/BraTS20_Validation_113_t1.nii.gz",
+        "BraTS20_Validation_113/BraTS20_Validation_113_t1ce.nii.gz",
+        "BraTS20_Validation_113/BraTS20_Validation_113_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_114/BraTS20_Validation_114_flair.nii.gz",
+        "BraTS20_Validation_114/BraTS20_Validation_114_t1.nii.gz",
+        "BraTS20_Validation_114/BraTS20_Validation_114_t1ce.nii.gz",
+        "BraTS20_Validation_114/BraTS20_Validation_114_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_115/BraTS20_Validation_115_flair.nii.gz",
+        "BraTS20_Validation_115/BraTS20_Validation_115_t1.nii.gz",
+        "BraTS20_Validation_115/BraTS20_Validation_115_t1ce.nii.gz",
+        "BraTS20_Validation_115/BraTS20_Validation_115_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_116/BraTS20_Validation_116_flair.nii.gz",
+        "BraTS20_Validation_116/BraTS20_Validation_116_t1.nii.gz",
+        "BraTS20_Validation_116/BraTS20_Validation_116_t1ce.nii.gz",
+        "BraTS20_Validation_116/BraTS20_Validation_116_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_117/BraTS20_Validation_117_flair.nii.gz",
+        "BraTS20_Validation_117/BraTS20_Validation_117_t1.nii.gz",
+        "BraTS20_Validation_117/BraTS20_Validation_117_t1ce.nii.gz",
+        "BraTS20_Validation_117/BraTS20_Validation_117_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_118/BraTS20_Validation_118_flair.nii.gz",
+        "BraTS20_Validation_118/BraTS20_Validation_118_t1.nii.gz",
+        "BraTS20_Validation_118/BraTS20_Validation_118_t1ce.nii.gz",
+        "BraTS20_Validation_118/BraTS20_Validation_118_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_119/BraTS20_Validation_119_flair.nii.gz",
+        "BraTS20_Validation_119/BraTS20_Validation_119_t1.nii.gz",
+        "BraTS20_Validation_119/BraTS20_Validation_119_t1ce.nii.gz",
+        "BraTS20_Validation_119/BraTS20_Validation_119_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_120/BraTS20_Validation_120_flair.nii.gz",
+        "BraTS20_Validation_120/BraTS20_Validation_120_t1.nii.gz",
+        "BraTS20_Validation_120/BraTS20_Validation_120_t1ce.nii.gz",
+        "BraTS20_Validation_120/BraTS20_Validation_120_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_121/BraTS20_Validation_121_flair.nii.gz",
+        "BraTS20_Validation_121/BraTS20_Validation_121_t1.nii.gz",
+        "BraTS20_Validation_121/BraTS20_Validation_121_t1ce.nii.gz",
+        "BraTS20_Validation_121/BraTS20_Validation_121_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_122/BraTS20_Validation_122_flair.nii.gz",
+        "BraTS20_Validation_122/BraTS20_Validation_122_t1.nii.gz",
+        "BraTS20_Validation_122/BraTS20_Validation_122_t1ce.nii.gz",
+        "BraTS20_Validation_122/BraTS20_Validation_122_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_123/BraTS20_Validation_123_flair.nii.gz",
+        "BraTS20_Validation_123/BraTS20_Validation_123_t1.nii.gz",
+        "BraTS20_Validation_123/BraTS20_Validation_123_t1ce.nii.gz",
+        "BraTS20_Validation_123/BraTS20_Validation_123_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_124/BraTS20_Validation_124_flair.nii.gz",
+        "BraTS20_Validation_124/BraTS20_Validation_124_t1.nii.gz",
+        "BraTS20_Validation_124/BraTS20_Validation_124_t1ce.nii.gz",
+        "BraTS20_Validation_124/BraTS20_Validation_124_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS20_Validation_125/BraTS20_Validation_125_flair.nii.gz",
+        "BraTS20_Validation_125/BraTS20_Validation_125_t1.nii.gz",
+        "BraTS20_Validation_125/BraTS20_Validation_125_t1ce.nii.gz",
+        "BraTS20_Validation_125/BraTS20_Validation_125_t2.nii.gz"
+      ]
+    }
+  ]
+}

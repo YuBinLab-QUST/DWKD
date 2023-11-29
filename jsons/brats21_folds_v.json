@@ -1,0 +1,1975 @@
+{
+  "training": [
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00001/BraTS2021_00001_flair.nii.gz",
+        "BraTS2021_00001/BraTS2021_00001_t1.nii.gz",
+        "BraTS2021_00001/BraTS2021_00001_t1ce.nii.gz",
+        "BraTS2021_00001/BraTS2021_00001_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00013/BraTS2021_00013_flair.nii.gz",
+        "BraTS2021_00013/BraTS2021_00013_t1.nii.gz",
+        "BraTS2021_00013/BraTS2021_00013_t1ce.nii.gz",
+        "BraTS2021_00013/BraTS2021_00013_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00015/BraTS2021_00015_flair.nii.gz",
+        "BraTS2021_00015/BraTS2021_00015_t1.nii.gz",
+        "BraTS2021_00015/BraTS2021_00015_t1ce.nii.gz",
+        "BraTS2021_00015/BraTS2021_00015_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00027/BraTS2021_00027_flair.nii.gz",
+        "BraTS2021_00027/BraTS2021_00027_t1.nii.gz",
+        "BraTS2021_00027/BraTS2021_00027_t1ce.nii.gz",
+        "BraTS2021_00027/BraTS2021_00027_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00037/BraTS2021_00037_flair.nii.gz",
+        "BraTS2021_00037/BraTS2021_00037_t1.nii.gz",
+        "BraTS2021_00037/BraTS2021_00037_t1ce.nii.gz",
+        "BraTS2021_00037/BraTS2021_00037_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00047/BraTS2021_00047_flair.nii.gz",
+        "BraTS2021_00047/BraTS2021_00047_t1.nii.gz",
+        "BraTS2021_00047/BraTS2021_00047_t1ce.nii.gz",
+        "BraTS2021_00047/BraTS2021_00047_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00079/BraTS2021_00079_flair.nii.gz",
+        "BraTS2021_00079/BraTS2021_00079_t1.nii.gz",
+        "BraTS2021_00079/BraTS2021_00079_t1ce.nii.gz",
+        "BraTS2021_00079/BraTS2021_00079_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00080/BraTS2021_00080_flair.nii.gz",
+        "BraTS2021_00080/BraTS2021_00080_t1.nii.gz",
+        "BraTS2021_00080/BraTS2021_00080_t1ce.nii.gz",
+        "BraTS2021_00080/BraTS2021_00080_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00082/BraTS2021_00082_flair.nii.gz",
+        "BraTS2021_00082/BraTS2021_00082_t1.nii.gz",
+        "BraTS2021_00082/BraTS2021_00082_t1ce.nii.gz",
+        "BraTS2021_00082/BraTS2021_00082_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00091/BraTS2021_00091_flair.nii.gz",
+        "BraTS2021_00091/BraTS2021_00091_t1.nii.gz",
+        "BraTS2021_00091/BraTS2021_00091_t1ce.nii.gz",
+        "BraTS2021_00091/BraTS2021_00091_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00114/BraTS2021_00114_flair.nii.gz",
+        "BraTS2021_00114/BraTS2021_00114_t1.nii.gz",
+        "BraTS2021_00114/BraTS2021_00114_t1ce.nii.gz",
+        "BraTS2021_00114/BraTS2021_00114_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00119/BraTS2021_00119_flair.nii.gz",
+        "BraTS2021_00119/BraTS2021_00119_t1.nii.gz",
+        "BraTS2021_00119/BraTS2021_00119_t1ce.nii.gz",
+        "BraTS2021_00119/BraTS2021_00119_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00125/BraTS2021_00125_flair.nii.gz",
+        "BraTS2021_00125/BraTS2021_00125_t1.nii.gz",
+        "BraTS2021_00125/BraTS2021_00125_t1ce.nii.gz",
+        "BraTS2021_00125/BraTS2021_00125_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00129/BraTS2021_00129_flair.nii.gz",
+        "BraTS2021_00129/BraTS2021_00129_t1.nii.gz",
+        "BraTS2021_00129/BraTS2021_00129_t1ce.nii.gz",
+        "BraTS2021_00129/BraTS2021_00129_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00135/BraTS2021_00135_flair.nii.gz",
+        "BraTS2021_00135/BraTS2021_00135_t1.nii.gz",
+        "BraTS2021_00135/BraTS2021_00135_t1ce.nii.gz",
+        "BraTS2021_00135/BraTS2021_00135_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00141/BraTS2021_00141_flair.nii.gz",
+        "BraTS2021_00141/BraTS2021_00141_t1.nii.gz",
+        "BraTS2021_00141/BraTS2021_00141_t1ce.nii.gz",
+        "BraTS2021_00141/BraTS2021_00141_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00145/BraTS2021_00145_flair.nii.gz",
+        "BraTS2021_00145/BraTS2021_00145_t1.nii.gz",
+        "BraTS2021_00145/BraTS2021_00145_t1ce.nii.gz",
+        "BraTS2021_00145/BraTS2021_00145_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00153/BraTS2021_00153_flair.nii.gz",
+        "BraTS2021_00153/BraTS2021_00153_t1.nii.gz",
+        "BraTS2021_00153/BraTS2021_00153_t1ce.nii.gz",
+        "BraTS2021_00153/BraTS2021_00153_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00161/BraTS2021_00161_flair.nii.gz",
+        "BraTS2021_00161/BraTS2021_00161_t1.nii.gz",
+        "BraTS2021_00161/BraTS2021_00161_t1ce.nii.gz",
+        "BraTS2021_00161/BraTS2021_00161_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00163/BraTS2021_00163_flair.nii.gz",
+        "BraTS2021_00163/BraTS2021_00163_t1.nii.gz",
+        "BraTS2021_00163/BraTS2021_00163_t1ce.nii.gz",
+        "BraTS2021_00163/BraTS2021_00163_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00174/BraTS2021_00174_flair.nii.gz",
+        "BraTS2021_00174/BraTS2021_00174_t1.nii.gz",
+        "BraTS2021_00174/BraTS2021_00174_t1ce.nii.gz",
+        "BraTS2021_00174/BraTS2021_00174_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00181/BraTS2021_00181_flair.nii.gz",
+        "BraTS2021_00181/BraTS2021_00181_t1.nii.gz",
+        "BraTS2021_00181/BraTS2021_00181_t1ce.nii.gz",
+        "BraTS2021_00181/BraTS2021_00181_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00182/BraTS2021_00182_flair.nii.gz",
+        "BraTS2021_00182/BraTS2021_00182_t1.nii.gz",
+        "BraTS2021_00182/BraTS2021_00182_t1ce.nii.gz",
+        "BraTS2021_00182/BraTS2021_00182_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00190/BraTS2021_00190_flair.nii.gz",
+        "BraTS2021_00190/BraTS2021_00190_t1.nii.gz",
+        "BraTS2021_00190/BraTS2021_00190_t1ce.nii.gz",
+        "BraTS2021_00190/BraTS2021_00190_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00200/BraTS2021_00200_flair.nii.gz",
+        "BraTS2021_00200/BraTS2021_00200_t1.nii.gz",
+        "BraTS2021_00200/BraTS2021_00200_t1ce.nii.gz",
+        "BraTS2021_00200/BraTS2021_00200_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00208/BraTS2021_00208_flair.nii.gz",
+        "BraTS2021_00208/BraTS2021_00208_t1.nii.gz",
+        "BraTS2021_00208/BraTS2021_00208_t1ce.nii.gz",
+        "BraTS2021_00208/BraTS2021_00208_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00213/BraTS2021_00213_flair.nii.gz",
+        "BraTS2021_00213/BraTS2021_00213_t1.nii.gz",
+        "BraTS2021_00213/BraTS2021_00213_t1ce.nii.gz",
+        "BraTS2021_00213/BraTS2021_00213_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00229/BraTS2021_00229_flair.nii.gz",
+        "BraTS2021_00229/BraTS2021_00229_t1.nii.gz",
+        "BraTS2021_00229/BraTS2021_00229_t1ce.nii.gz",
+        "BraTS2021_00229/BraTS2021_00229_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00252/BraTS2021_00252_flair.nii.gz",
+        "BraTS2021_00252/BraTS2021_00252_t1.nii.gz",
+        "BraTS2021_00252/BraTS2021_00252_t1ce.nii.gz",
+        "BraTS2021_00252/BraTS2021_00252_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00256/BraTS2021_00256_flair.nii.gz",
+        "BraTS2021_00256/BraTS2021_00256_t1.nii.gz",
+        "BraTS2021_00256/BraTS2021_00256_t1ce.nii.gz",
+        "BraTS2021_00256/BraTS2021_00256_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00264/BraTS2021_00264_flair.nii.gz",
+        "BraTS2021_00264/BraTS2021_00264_t1.nii.gz",
+        "BraTS2021_00264/BraTS2021_00264_t1ce.nii.gz",
+        "BraTS2021_00264/BraTS2021_00264_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00287/BraTS2021_00287_flair.nii.gz",
+        "BraTS2021_00287/BraTS2021_00287_t1.nii.gz",
+        "BraTS2021_00287/BraTS2021_00287_t1ce.nii.gz",
+        "BraTS2021_00287/BraTS2021_00287_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00307/BraTS2021_00307_flair.nii.gz",
+        "BraTS2021_00307/BraTS2021_00307_t1.nii.gz",
+        "BraTS2021_00307/BraTS2021_00307_t1ce.nii.gz",
+        "BraTS2021_00307/BraTS2021_00307_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00323/BraTS2021_00323_flair.nii.gz",
+        "BraTS2021_00323/BraTS2021_00323_t1.nii.gz",
+        "BraTS2021_00323/BraTS2021_00323_t1ce.nii.gz",
+        "BraTS2021_00323/BraTS2021_00323_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00333/BraTS2021_00333_flair.nii.gz",
+        "BraTS2021_00333/BraTS2021_00333_t1.nii.gz",
+        "BraTS2021_00333/BraTS2021_00333_t1ce.nii.gz",
+        "BraTS2021_00333/BraTS2021_00333_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00335/BraTS2021_00335_flair.nii.gz",
+        "BraTS2021_00335/BraTS2021_00335_t1.nii.gz",
+        "BraTS2021_00335/BraTS2021_00335_t1ce.nii.gz",
+        "BraTS2021_00335/BraTS2021_00335_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00337/BraTS2021_00337_flair.nii.gz",
+        "BraTS2021_00337/BraTS2021_00337_t1.nii.gz",
+        "BraTS2021_00337/BraTS2021_00337_t1ce.nii.gz",
+        "BraTS2021_00337/BraTS2021_00337_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00355/BraTS2021_00355_flair.nii.gz",
+        "BraTS2021_00355/BraTS2021_00355_t1.nii.gz",
+        "BraTS2021_00355/BraTS2021_00355_t1ce.nii.gz",
+        "BraTS2021_00355/BraTS2021_00355_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00372/BraTS2021_00372_flair.nii.gz",
+        "BraTS2021_00372/BraTS2021_00372_t1.nii.gz",
+        "BraTS2021_00372/BraTS2021_00372_t1ce.nii.gz",
+        "BraTS2021_00372/BraTS2021_00372_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00381/BraTS2021_00381_flair.nii.gz",
+        "BraTS2021_00381/BraTS2021_00381_t1.nii.gz",
+        "BraTS2021_00381/BraTS2021_00381_t1ce.nii.gz",
+        "BraTS2021_00381/BraTS2021_00381_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00384/BraTS2021_00384_flair.nii.gz",
+        "BraTS2021_00384/BraTS2021_00384_t1.nii.gz",
+        "BraTS2021_00384/BraTS2021_00384_t1ce.nii.gz",
+        "BraTS2021_00384/BraTS2021_00384_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00422/BraTS2021_00422_flair.nii.gz",
+        "BraTS2021_00422/BraTS2021_00422_t1.nii.gz",
+        "BraTS2021_00422/BraTS2021_00422_t1ce.nii.gz",
+        "BraTS2021_00422/BraTS2021_00422_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00428/BraTS2021_00428_flair.nii.gz",
+        "BraTS2021_00428/BraTS2021_00428_t1.nii.gz",
+        "BraTS2021_00428/BraTS2021_00428_t1ce.nii.gz",
+        "BraTS2021_00428/BraTS2021_00428_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00434/BraTS2021_00434_flair.nii.gz",
+        "BraTS2021_00434/BraTS2021_00434_t1.nii.gz",
+        "BraTS2021_00434/BraTS2021_00434_t1ce.nii.gz",
+        "BraTS2021_00434/BraTS2021_00434_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00438/BraTS2021_00438_flair.nii.gz",
+        "BraTS2021_00438/BraTS2021_00438_t1.nii.gz",
+        "BraTS2021_00438/BraTS2021_00438_t1ce.nii.gz",
+        "BraTS2021_00438/BraTS2021_00438_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00447/BraTS2021_00447_flair.nii.gz",
+        "BraTS2021_00447/BraTS2021_00447_t1.nii.gz",
+        "BraTS2021_00447/BraTS2021_00447_t1ce.nii.gz",
+        "BraTS2021_00447/BraTS2021_00447_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00450/BraTS2021_00450_flair.nii.gz",
+        "BraTS2021_00450/BraTS2021_00450_t1.nii.gz",
+        "BraTS2021_00450/BraTS2021_00450_t1ce.nii.gz",
+        "BraTS2021_00450/BraTS2021_00450_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00458/BraTS2021_00458_flair.nii.gz",
+        "BraTS2021_00458/BraTS2021_00458_t1.nii.gz",
+        "BraTS2021_00458/BraTS2021_00458_t1ce.nii.gz",
+        "BraTS2021_00458/BraTS2021_00458_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00460/BraTS2021_00460_flair.nii.gz",
+        "BraTS2021_00460/BraTS2021_00460_t1.nii.gz",
+        "BraTS2021_00460/BraTS2021_00460_t1ce.nii.gz",
+        "BraTS2021_00460/BraTS2021_00460_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00462/BraTS2021_00462_flair.nii.gz",
+        "BraTS2021_00462/BraTS2021_00462_t1.nii.gz",
+        "BraTS2021_00462/BraTS2021_00462_t1ce.nii.gz",
+        "BraTS2021_00462/BraTS2021_00462_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00463/BraTS2021_00463_flair.nii.gz",
+        "BraTS2021_00463/BraTS2021_00463_t1.nii.gz",
+        "BraTS2021_00463/BraTS2021_00463_t1ce.nii.gz",
+        "BraTS2021_00463/BraTS2021_00463_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00467/BraTS2021_00467_flair.nii.gz",
+        "BraTS2021_00467/BraTS2021_00467_t1.nii.gz",
+        "BraTS2021_00467/BraTS2021_00467_t1ce.nii.gz",
+        "BraTS2021_00467/BraTS2021_00467_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00474/BraTS2021_00474_flair.nii.gz",
+        "BraTS2021_00474/BraTS2021_00474_t1.nii.gz",
+        "BraTS2021_00474/BraTS2021_00474_t1ce.nii.gz",
+        "BraTS2021_00474/BraTS2021_00474_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00489/BraTS2021_00489_flair.nii.gz",
+        "BraTS2021_00489/BraTS2021_00489_t1.nii.gz",
+        "BraTS2021_00489/BraTS2021_00489_t1ce.nii.gz",
+        "BraTS2021_00489/BraTS2021_00489_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00492/BraTS2021_00492_flair.nii.gz",
+        "BraTS2021_00492/BraTS2021_00492_t1.nii.gz",
+        "BraTS2021_00492/BraTS2021_00492_t1ce.nii.gz",
+        "BraTS2021_00492/BraTS2021_00492_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00503/BraTS2021_00503_flair.nii.gz",
+        "BraTS2021_00503/BraTS2021_00503_t1.nii.gz",
+        "BraTS2021_00503/BraTS2021_00503_t1ce.nii.gz",
+        "BraTS2021_00503/BraTS2021_00503_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00521/BraTS2021_00521_flair.nii.gz",
+        "BraTS2021_00521/BraTS2021_00521_t1.nii.gz",
+        "BraTS2021_00521/BraTS2021_00521_t1ce.nii.gz",
+        "BraTS2021_00521/BraTS2021_00521_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00535/BraTS2021_00535_flair.nii.gz",
+        "BraTS2021_00535/BraTS2021_00535_t1.nii.gz",
+        "BraTS2021_00535/BraTS2021_00535_t1ce.nii.gz",
+        "BraTS2021_00535/BraTS2021_00535_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00553/BraTS2021_00553_flair.nii.gz",
+        "BraTS2021_00553/BraTS2021_00553_t1.nii.gz",
+        "BraTS2021_00553/BraTS2021_00553_t1ce.nii.gz",
+        "BraTS2021_00553/BraTS2021_00553_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00560/BraTS2021_00560_flair.nii.gz",
+        "BraTS2021_00560/BraTS2021_00560_t1.nii.gz",
+        "BraTS2021_00560/BraTS2021_00560_t1ce.nii.gz",
+        "BraTS2021_00560/BraTS2021_00560_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00573/BraTS2021_00573_flair.nii.gz",
+        "BraTS2021_00573/BraTS2021_00573_t1.nii.gz",
+        "BraTS2021_00573/BraTS2021_00573_t1ce.nii.gz",
+        "BraTS2021_00573/BraTS2021_00573_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00585/BraTS2021_00585_flair.nii.gz",
+        "BraTS2021_00585/BraTS2021_00585_t1.nii.gz",
+        "BraTS2021_00585/BraTS2021_00585_t1ce.nii.gz",
+        "BraTS2021_00585/BraTS2021_00585_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00592/BraTS2021_00592_flair.nii.gz",
+        "BraTS2021_00592/BraTS2021_00592_t1.nii.gz",
+        "BraTS2021_00592/BraTS2021_00592_t1ce.nii.gz",
+        "BraTS2021_00592/BraTS2021_00592_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00595/BraTS2021_00595_flair.nii.gz",
+        "BraTS2021_00595/BraTS2021_00595_t1.nii.gz",
+        "BraTS2021_00595/BraTS2021_00595_t1ce.nii.gz",
+        "BraTS2021_00595/BraTS2021_00595_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00603/BraTS2021_00603_flair.nii.gz",
+        "BraTS2021_00603/BraTS2021_00603_t1.nii.gz",
+        "BraTS2021_00603/BraTS2021_00603_t1ce.nii.gz",
+        "BraTS2021_00603/BraTS2021_00603_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00644/BraTS2021_00644_flair.nii.gz",
+        "BraTS2021_00644/BraTS2021_00644_t1.nii.gz",
+        "BraTS2021_00644/BraTS2021_00644_t1ce.nii.gz",
+        "BraTS2021_00644/BraTS2021_00644_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00647/BraTS2021_00647_flair.nii.gz",
+        "BraTS2021_00647/BraTS2021_00647_t1.nii.gz",
+        "BraTS2021_00647/BraTS2021_00647_t1ce.nii.gz",
+        "BraTS2021_00647/BraTS2021_00647_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00662/BraTS2021_00662_flair.nii.gz",
+        "BraTS2021_00662/BraTS2021_00662_t1.nii.gz",
+        "BraTS2021_00662/BraTS2021_00662_t1ce.nii.gz",
+        "BraTS2021_00662/BraTS2021_00662_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00671/BraTS2021_00671_flair.nii.gz",
+        "BraTS2021_00671/BraTS2021_00671_t1.nii.gz",
+        "BraTS2021_00671/BraTS2021_00671_t1ce.nii.gz",
+        "BraTS2021_00671/BraTS2021_00671_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00681/BraTS2021_00681_flair.nii.gz",
+        "BraTS2021_00681/BraTS2021_00681_t1.nii.gz",
+        "BraTS2021_00681/BraTS2021_00681_t1ce.nii.gz",
+        "BraTS2021_00681/BraTS2021_00681_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00699/BraTS2021_00699_flair.nii.gz",
+        "BraTS2021_00699/BraTS2021_00699_t1.nii.gz",
+        "BraTS2021_00699/BraTS2021_00699_t1ce.nii.gz",
+        "BraTS2021_00699/BraTS2021_00699_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00702/BraTS2021_00702_flair.nii.gz",
+        "BraTS2021_00702/BraTS2021_00702_t1.nii.gz",
+        "BraTS2021_00702/BraTS2021_00702_t1ce.nii.gz",
+        "BraTS2021_00702/BraTS2021_00702_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00712/BraTS2021_00712_flair.nii.gz",
+        "BraTS2021_00712/BraTS2021_00712_t1.nii.gz",
+        "BraTS2021_00712/BraTS2021_00712_t1ce.nii.gz",
+        "BraTS2021_00712/BraTS2021_00712_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00719/BraTS2021_00719_flair.nii.gz",
+        "BraTS2021_00719/BraTS2021_00719_t1.nii.gz",
+        "BraTS2021_00719/BraTS2021_00719_t1ce.nii.gz",
+        "BraTS2021_00719/BraTS2021_00719_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00721/BraTS2021_00721_flair.nii.gz",
+        "BraTS2021_00721/BraTS2021_00721_t1.nii.gz",
+        "BraTS2021_00721/BraTS2021_00721_t1ce.nii.gz",
+        "BraTS2021_00721/BraTS2021_00721_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00749/BraTS2021_00749_flair.nii.gz",
+        "BraTS2021_00749/BraTS2021_00749_t1.nii.gz",
+        "BraTS2021_00749/BraTS2021_00749_t1ce.nii.gz",
+        "BraTS2021_00749/BraTS2021_00749_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00762/BraTS2021_00762_flair.nii.gz",
+        "BraTS2021_00762/BraTS2021_00762_t1.nii.gz",
+        "BraTS2021_00762/BraTS2021_00762_t1ce.nii.gz",
+        "BraTS2021_00762/BraTS2021_00762_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00769/BraTS2021_00769_flair.nii.gz",
+        "BraTS2021_00769/BraTS2021_00769_t1.nii.gz",
+        "BraTS2021_00769/BraTS2021_00769_t1ce.nii.gz",
+        "BraTS2021_00769/BraTS2021_00769_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00779/BraTS2021_00779_flair.nii.gz",
+        "BraTS2021_00779/BraTS2021_00779_t1.nii.gz",
+        "BraTS2021_00779/BraTS2021_00779_t1ce.nii.gz",
+        "BraTS2021_00779/BraTS2021_00779_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00821/BraTS2021_00821_flair.nii.gz",
+        "BraTS2021_00821/BraTS2021_00821_t1.nii.gz",
+        "BraTS2021_00821/BraTS2021_00821_t1ce.nii.gz",
+        "BraTS2021_00821/BraTS2021_00821_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00822/BraTS2021_00822_flair.nii.gz",
+        "BraTS2021_00822/BraTS2021_00822_t1.nii.gz",
+        "BraTS2021_00822/BraTS2021_00822_t1ce.nii.gz",
+        "BraTS2021_00822/BraTS2021_00822_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00825/BraTS2021_00825_flair.nii.gz",
+        "BraTS2021_00825/BraTS2021_00825_t1.nii.gz",
+        "BraTS2021_00825/BraTS2021_00825_t1ce.nii.gz",
+        "BraTS2021_00825/BraTS2021_00825_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00826/BraTS2021_00826_flair.nii.gz",
+        "BraTS2021_00826/BraTS2021_00826_t1.nii.gz",
+        "BraTS2021_00826/BraTS2021_00826_t1ce.nii.gz",
+        "BraTS2021_00826/BraTS2021_00826_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00829/BraTS2021_00829_flair.nii.gz",
+        "BraTS2021_00829/BraTS2021_00829_t1.nii.gz",
+        "BraTS2021_00829/BraTS2021_00829_t1ce.nii.gz",
+        "BraTS2021_00829/BraTS2021_00829_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00833/BraTS2021_00833_flair.nii.gz",
+        "BraTS2021_00833/BraTS2021_00833_t1.nii.gz",
+        "BraTS2021_00833/BraTS2021_00833_t1ce.nii.gz",
+        "BraTS2021_00833/BraTS2021_00833_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_00997/BraTS2021_00997_flair.nii.gz",
+        "BraTS2021_00997/BraTS2021_00997_t1.nii.gz",
+        "BraTS2021_00997/BraTS2021_00997_t1ce.nii.gz",
+        "BraTS2021_00997/BraTS2021_00997_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01006/BraTS2021_01006_flair.nii.gz",
+        "BraTS2021_01006/BraTS2021_01006_t1.nii.gz",
+        "BraTS2021_01006/BraTS2021_01006_t1ce.nii.gz",
+        "BraTS2021_01006/BraTS2021_01006_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01667/BraTS2021_01667_flair.nii.gz",
+        "BraTS2021_01667/BraTS2021_01667_t1.nii.gz",
+        "BraTS2021_01667/BraTS2021_01667_t1ce.nii.gz",
+        "BraTS2021_01667/BraTS2021_01667_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01668/BraTS2021_01668_flair.nii.gz",
+        "BraTS2021_01668/BraTS2021_01668_t1.nii.gz",
+        "BraTS2021_01668/BraTS2021_01668_t1ce.nii.gz",
+        "BraTS2021_01668/BraTS2021_01668_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01669/BraTS2021_01669_flair.nii.gz",
+        "BraTS2021_01669/BraTS2021_01669_t1.nii.gz",
+        "BraTS2021_01669/BraTS2021_01669_t1ce.nii.gz",
+        "BraTS2021_01669/BraTS2021_01669_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01670/BraTS2021_01670_flair.nii.gz",
+        "BraTS2021_01670/BraTS2021_01670_t1.nii.gz",
+        "BraTS2021_01670/BraTS2021_01670_t1ce.nii.gz",
+        "BraTS2021_01670/BraTS2021_01670_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01671/BraTS2021_01671_flair.nii.gz",
+        "BraTS2021_01671/BraTS2021_01671_t1.nii.gz",
+        "BraTS2021_01671/BraTS2021_01671_t1ce.nii.gz",
+        "BraTS2021_01671/BraTS2021_01671_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01672/BraTS2021_01672_flair.nii.gz",
+        "BraTS2021_01672/BraTS2021_01672_t1.nii.gz",
+        "BraTS2021_01672/BraTS2021_01672_t1ce.nii.gz",
+        "BraTS2021_01672/BraTS2021_01672_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01673/BraTS2021_01673_flair.nii.gz",
+        "BraTS2021_01673/BraTS2021_01673_t1.nii.gz",
+        "BraTS2021_01673/BraTS2021_01673_t1ce.nii.gz",
+        "BraTS2021_01673/BraTS2021_01673_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01674/BraTS2021_01674_flair.nii.gz",
+        "BraTS2021_01674/BraTS2021_01674_t1.nii.gz",
+        "BraTS2021_01674/BraTS2021_01674_t1ce.nii.gz",
+        "BraTS2021_01674/BraTS2021_01674_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01675/BraTS2021_01675_flair.nii.gz",
+        "BraTS2021_01675/BraTS2021_01675_t1.nii.gz",
+        "BraTS2021_01675/BraTS2021_01675_t1ce.nii.gz",
+        "BraTS2021_01675/BraTS2021_01675_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01676/BraTS2021_01676_flair.nii.gz",
+        "BraTS2021_01676/BraTS2021_01676_t1.nii.gz",
+        "BraTS2021_01676/BraTS2021_01676_t1ce.nii.gz",
+        "BraTS2021_01676/BraTS2021_01676_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01677/BraTS2021_01677_flair.nii.gz",
+        "BraTS2021_01677/BraTS2021_01677_t1.nii.gz",
+        "BraTS2021_01677/BraTS2021_01677_t1ce.nii.gz",
+        "BraTS2021_01677/BraTS2021_01677_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01678/BraTS2021_01678_flair.nii.gz",
+        "BraTS2021_01678/BraTS2021_01678_t1.nii.gz",
+        "BraTS2021_01678/BraTS2021_01678_t1ce.nii.gz",
+        "BraTS2021_01678/BraTS2021_01678_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01679/BraTS2021_01679_flair.nii.gz",
+        "BraTS2021_01679/BraTS2021_01679_t1.nii.gz",
+        "BraTS2021_01679/BraTS2021_01679_t1ce.nii.gz",
+        "BraTS2021_01679/BraTS2021_01679_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01680/BraTS2021_01680_flair.nii.gz",
+        "BraTS2021_01680/BraTS2021_01680_t1.nii.gz",
+        "BraTS2021_01680/BraTS2021_01680_t1ce.nii.gz",
+        "BraTS2021_01680/BraTS2021_01680_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01681/BraTS2021_01681_flair.nii.gz",
+        "BraTS2021_01681/BraTS2021_01681_t1.nii.gz",
+        "BraTS2021_01681/BraTS2021_01681_t1ce.nii.gz",
+        "BraTS2021_01681/BraTS2021_01681_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01682/BraTS2021_01682_flair.nii.gz",
+        "BraTS2021_01682/BraTS2021_01682_t1.nii.gz",
+        "BraTS2021_01682/BraTS2021_01682_t1ce.nii.gz",
+        "BraTS2021_01682/BraTS2021_01682_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01683/BraTS2021_01683_flair.nii.gz",
+        "BraTS2021_01683/BraTS2021_01683_t1.nii.gz",
+        "BraTS2021_01683/BraTS2021_01683_t1ce.nii.gz",
+        "BraTS2021_01683/BraTS2021_01683_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01684/BraTS2021_01684_flair.nii.gz",
+        "BraTS2021_01684/BraTS2021_01684_t1.nii.gz",
+        "BraTS2021_01684/BraTS2021_01684_t1ce.nii.gz",
+        "BraTS2021_01684/BraTS2021_01684_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01685/BraTS2021_01685_flair.nii.gz",
+        "BraTS2021_01685/BraTS2021_01685_t1.nii.gz",
+        "BraTS2021_01685/BraTS2021_01685_t1ce.nii.gz",
+        "BraTS2021_01685/BraTS2021_01685_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01686/BraTS2021_01686_flair.nii.gz",
+        "BraTS2021_01686/BraTS2021_01686_t1.nii.gz",
+        "BraTS2021_01686/BraTS2021_01686_t1ce.nii.gz",
+        "BraTS2021_01686/BraTS2021_01686_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01687/BraTS2021_01687_flair.nii.gz",
+        "BraTS2021_01687/BraTS2021_01687_t1.nii.gz",
+        "BraTS2021_01687/BraTS2021_01687_t1ce.nii.gz",
+        "BraTS2021_01687/BraTS2021_01687_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01688/BraTS2021_01688_flair.nii.gz",
+        "BraTS2021_01688/BraTS2021_01688_t1.nii.gz",
+        "BraTS2021_01688/BraTS2021_01688_t1ce.nii.gz",
+        "BraTS2021_01688/BraTS2021_01688_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01689/BraTS2021_01689_flair.nii.gz",
+        "BraTS2021_01689/BraTS2021_01689_t1.nii.gz",
+        "BraTS2021_01689/BraTS2021_01689_t1ce.nii.gz",
+        "BraTS2021_01689/BraTS2021_01689_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01690/BraTS2021_01690_flair.nii.gz",
+        "BraTS2021_01690/BraTS2021_01690_t1.nii.gz",
+        "BraTS2021_01690/BraTS2021_01690_t1ce.nii.gz",
+        "BraTS2021_01690/BraTS2021_01690_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01691/BraTS2021_01691_flair.nii.gz",
+        "BraTS2021_01691/BraTS2021_01691_t1.nii.gz",
+        "BraTS2021_01691/BraTS2021_01691_t1ce.nii.gz",
+        "BraTS2021_01691/BraTS2021_01691_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01692/BraTS2021_01692_flair.nii.gz",
+        "BraTS2021_01692/BraTS2021_01692_t1.nii.gz",
+        "BraTS2021_01692/BraTS2021_01692_t1ce.nii.gz",
+        "BraTS2021_01692/BraTS2021_01692_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01693/BraTS2021_01693_flair.nii.gz",
+        "BraTS2021_01693/BraTS2021_01693_t1.nii.gz",
+        "BraTS2021_01693/BraTS2021_01693_t1ce.nii.gz",
+        "BraTS2021_01693/BraTS2021_01693_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01694/BraTS2021_01694_flair.nii.gz",
+        "BraTS2021_01694/BraTS2021_01694_t1.nii.gz",
+        "BraTS2021_01694/BraTS2021_01694_t1ce.nii.gz",
+        "BraTS2021_01694/BraTS2021_01694_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01695/BraTS2021_01695_flair.nii.gz",
+        "BraTS2021_01695/BraTS2021_01695_t1.nii.gz",
+        "BraTS2021_01695/BraTS2021_01695_t1ce.nii.gz",
+        "BraTS2021_01695/BraTS2021_01695_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01696/BraTS2021_01696_flair.nii.gz",
+        "BraTS2021_01696/BraTS2021_01696_t1.nii.gz",
+        "BraTS2021_01696/BraTS2021_01696_t1ce.nii.gz",
+        "BraTS2021_01696/BraTS2021_01696_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01697/BraTS2021_01697_flair.nii.gz",
+        "BraTS2021_01697/BraTS2021_01697_t1.nii.gz",
+        "BraTS2021_01697/BraTS2021_01697_t1ce.nii.gz",
+        "BraTS2021_01697/BraTS2021_01697_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01698/BraTS2021_01698_flair.nii.gz",
+        "BraTS2021_01698/BraTS2021_01698_t1.nii.gz",
+        "BraTS2021_01698/BraTS2021_01698_t1ce.nii.gz",
+        "BraTS2021_01698/BraTS2021_01698_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01699/BraTS2021_01699_flair.nii.gz",
+        "BraTS2021_01699/BraTS2021_01699_t1.nii.gz",
+        "BraTS2021_01699/BraTS2021_01699_t1ce.nii.gz",
+        "BraTS2021_01699/BraTS2021_01699_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01700/BraTS2021_01700_flair.nii.gz",
+        "BraTS2021_01700/BraTS2021_01700_t1.nii.gz",
+        "BraTS2021_01700/BraTS2021_01700_t1ce.nii.gz",
+        "BraTS2021_01700/BraTS2021_01700_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01701/BraTS2021_01701_flair.nii.gz",
+        "BraTS2021_01701/BraTS2021_01701_t1.nii.gz",
+        "BraTS2021_01701/BraTS2021_01701_t1ce.nii.gz",
+        "BraTS2021_01701/BraTS2021_01701_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01702/BraTS2021_01702_flair.nii.gz",
+        "BraTS2021_01702/BraTS2021_01702_t1.nii.gz",
+        "BraTS2021_01702/BraTS2021_01702_t1ce.nii.gz",
+        "BraTS2021_01702/BraTS2021_01702_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01703/BraTS2021_01703_flair.nii.gz",
+        "BraTS2021_01703/BraTS2021_01703_t1.nii.gz",
+        "BraTS2021_01703/BraTS2021_01703_t1ce.nii.gz",
+        "BraTS2021_01703/BraTS2021_01703_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01704/BraTS2021_01704_flair.nii.gz",
+        "BraTS2021_01704/BraTS2021_01704_t1.nii.gz",
+        "BraTS2021_01704/BraTS2021_01704_t1ce.nii.gz",
+        "BraTS2021_01704/BraTS2021_01704_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01705/BraTS2021_01705_flair.nii.gz",
+        "BraTS2021_01705/BraTS2021_01705_t1.nii.gz",
+        "BraTS2021_01705/BraTS2021_01705_t1ce.nii.gz",
+        "BraTS2021_01705/BraTS2021_01705_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01706/BraTS2021_01706_flair.nii.gz",
+        "BraTS2021_01706/BraTS2021_01706_t1.nii.gz",
+        "BraTS2021_01706/BraTS2021_01706_t1ce.nii.gz",
+        "BraTS2021_01706/BraTS2021_01706_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01707/BraTS2021_01707_flair.nii.gz",
+        "BraTS2021_01707/BraTS2021_01707_t1.nii.gz",
+        "BraTS2021_01707/BraTS2021_01707_t1ce.nii.gz",
+        "BraTS2021_01707/BraTS2021_01707_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01708/BraTS2021_01708_flair.nii.gz",
+        "BraTS2021_01708/BraTS2021_01708_t1.nii.gz",
+        "BraTS2021_01708/BraTS2021_01708_t1ce.nii.gz",
+        "BraTS2021_01708/BraTS2021_01708_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01709/BraTS2021_01709_flair.nii.gz",
+        "BraTS2021_01709/BraTS2021_01709_t1.nii.gz",
+        "BraTS2021_01709/BraTS2021_01709_t1ce.nii.gz",
+        "BraTS2021_01709/BraTS2021_01709_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01710/BraTS2021_01710_flair.nii.gz",
+        "BraTS2021_01710/BraTS2021_01710_t1.nii.gz",
+        "BraTS2021_01710/BraTS2021_01710_t1ce.nii.gz",
+        "BraTS2021_01710/BraTS2021_01710_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01711/BraTS2021_01711_flair.nii.gz",
+        "BraTS2021_01711/BraTS2021_01711_t1.nii.gz",
+        "BraTS2021_01711/BraTS2021_01711_t1ce.nii.gz",
+        "BraTS2021_01711/BraTS2021_01711_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01712/BraTS2021_01712_flair.nii.gz",
+        "BraTS2021_01712/BraTS2021_01712_t1.nii.gz",
+        "BraTS2021_01712/BraTS2021_01712_t1ce.nii.gz",
+        "BraTS2021_01712/BraTS2021_01712_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01713/BraTS2021_01713_flair.nii.gz",
+        "BraTS2021_01713/BraTS2021_01713_t1.nii.gz",
+        "BraTS2021_01713/BraTS2021_01713_t1ce.nii.gz",
+        "BraTS2021_01713/BraTS2021_01713_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01714/BraTS2021_01714_flair.nii.gz",
+        "BraTS2021_01714/BraTS2021_01714_t1.nii.gz",
+        "BraTS2021_01714/BraTS2021_01714_t1ce.nii.gz",
+        "BraTS2021_01714/BraTS2021_01714_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01715/BraTS2021_01715_flair.nii.gz",
+        "BraTS2021_01715/BraTS2021_01715_t1.nii.gz",
+        "BraTS2021_01715/BraTS2021_01715_t1ce.nii.gz",
+        "BraTS2021_01715/BraTS2021_01715_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01716/BraTS2021_01716_flair.nii.gz",
+        "BraTS2021_01716/BraTS2021_01716_t1.nii.gz",
+        "BraTS2021_01716/BraTS2021_01716_t1ce.nii.gz",
+        "BraTS2021_01716/BraTS2021_01716_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01717/BraTS2021_01717_flair.nii.gz",
+        "BraTS2021_01717/BraTS2021_01717_t1.nii.gz",
+        "BraTS2021_01717/BraTS2021_01717_t1ce.nii.gz",
+        "BraTS2021_01717/BraTS2021_01717_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01718/BraTS2021_01718_flair.nii.gz",
+        "BraTS2021_01718/BraTS2021_01718_t1.nii.gz",
+        "BraTS2021_01718/BraTS2021_01718_t1ce.nii.gz",
+        "BraTS2021_01718/BraTS2021_01718_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01719/BraTS2021_01719_flair.nii.gz",
+        "BraTS2021_01719/BraTS2021_01719_t1.nii.gz",
+        "BraTS2021_01719/BraTS2021_01719_t1ce.nii.gz",
+        "BraTS2021_01719/BraTS2021_01719_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01720/BraTS2021_01720_flair.nii.gz",
+        "BraTS2021_01720/BraTS2021_01720_t1.nii.gz",
+        "BraTS2021_01720/BraTS2021_01720_t1ce.nii.gz",
+        "BraTS2021_01720/BraTS2021_01720_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01721/BraTS2021_01721_flair.nii.gz",
+        "BraTS2021_01721/BraTS2021_01721_t1.nii.gz",
+        "BraTS2021_01721/BraTS2021_01721_t1ce.nii.gz",
+        "BraTS2021_01721/BraTS2021_01721_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01722/BraTS2021_01722_flair.nii.gz",
+        "BraTS2021_01722/BraTS2021_01722_t1.nii.gz",
+        "BraTS2021_01722/BraTS2021_01722_t1ce.nii.gz",
+        "BraTS2021_01722/BraTS2021_01722_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01723/BraTS2021_01723_flair.nii.gz",
+        "BraTS2021_01723/BraTS2021_01723_t1.nii.gz",
+        "BraTS2021_01723/BraTS2021_01723_t1ce.nii.gz",
+        "BraTS2021_01723/BraTS2021_01723_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01724/BraTS2021_01724_flair.nii.gz",
+        "BraTS2021_01724/BraTS2021_01724_t1.nii.gz",
+        "BraTS2021_01724/BraTS2021_01724_t1ce.nii.gz",
+        "BraTS2021_01724/BraTS2021_01724_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01725/BraTS2021_01725_flair.nii.gz",
+        "BraTS2021_01725/BraTS2021_01725_t1.nii.gz",
+        "BraTS2021_01725/BraTS2021_01725_t1ce.nii.gz",
+        "BraTS2021_01725/BraTS2021_01725_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01726/BraTS2021_01726_flair.nii.gz",
+        "BraTS2021_01726/BraTS2021_01726_t1.nii.gz",
+        "BraTS2021_01726/BraTS2021_01726_t1ce.nii.gz",
+        "BraTS2021_01726/BraTS2021_01726_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01727/BraTS2021_01727_flair.nii.gz",
+        "BraTS2021_01727/BraTS2021_01727_t1.nii.gz",
+        "BraTS2021_01727/BraTS2021_01727_t1ce.nii.gz",
+        "BraTS2021_01727/BraTS2021_01727_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01728/BraTS2021_01728_flair.nii.gz",
+        "BraTS2021_01728/BraTS2021_01728_t1.nii.gz",
+        "BraTS2021_01728/BraTS2021_01728_t1ce.nii.gz",
+        "BraTS2021_01728/BraTS2021_01728_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01729/BraTS2021_01729_flair.nii.gz",
+        "BraTS2021_01729/BraTS2021_01729_t1.nii.gz",
+        "BraTS2021_01729/BraTS2021_01729_t1ce.nii.gz",
+        "BraTS2021_01729/BraTS2021_01729_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01730/BraTS2021_01730_flair.nii.gz",
+        "BraTS2021_01730/BraTS2021_01730_t1.nii.gz",
+        "BraTS2021_01730/BraTS2021_01730_t1ce.nii.gz",
+        "BraTS2021_01730/BraTS2021_01730_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01731/BraTS2021_01731_flair.nii.gz",
+        "BraTS2021_01731/BraTS2021_01731_t1.nii.gz",
+        "BraTS2021_01731/BraTS2021_01731_t1ce.nii.gz",
+        "BraTS2021_01731/BraTS2021_01731_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01732/BraTS2021_01732_flair.nii.gz",
+        "BraTS2021_01732/BraTS2021_01732_t1.nii.gz",
+        "BraTS2021_01732/BraTS2021_01732_t1ce.nii.gz",
+        "BraTS2021_01732/BraTS2021_01732_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01733/BraTS2021_01733_flair.nii.gz",
+        "BraTS2021_01733/BraTS2021_01733_t1.nii.gz",
+        "BraTS2021_01733/BraTS2021_01733_t1ce.nii.gz",
+        "BraTS2021_01733/BraTS2021_01733_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01734/BraTS2021_01734_flair.nii.gz",
+        "BraTS2021_01734/BraTS2021_01734_t1.nii.gz",
+        "BraTS2021_01734/BraTS2021_01734_t1ce.nii.gz",
+        "BraTS2021_01734/BraTS2021_01734_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01735/BraTS2021_01735_flair.nii.gz",
+        "BraTS2021_01735/BraTS2021_01735_t1.nii.gz",
+        "BraTS2021_01735/BraTS2021_01735_t1ce.nii.gz",
+        "BraTS2021_01735/BraTS2021_01735_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01736/BraTS2021_01736_flair.nii.gz",
+        "BraTS2021_01736/BraTS2021_01736_t1.nii.gz",
+        "BraTS2021_01736/BraTS2021_01736_t1ce.nii.gz",
+        "BraTS2021_01736/BraTS2021_01736_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01737/BraTS2021_01737_flair.nii.gz",
+        "BraTS2021_01737/BraTS2021_01737_t1.nii.gz",
+        "BraTS2021_01737/BraTS2021_01737_t1ce.nii.gz",
+        "BraTS2021_01737/BraTS2021_01737_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01738/BraTS2021_01738_flair.nii.gz",
+        "BraTS2021_01738/BraTS2021_01738_t1.nii.gz",
+        "BraTS2021_01738/BraTS2021_01738_t1ce.nii.gz",
+        "BraTS2021_01738/BraTS2021_01738_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01739/BraTS2021_01739_flair.nii.gz",
+        "BraTS2021_01739/BraTS2021_01739_t1.nii.gz",
+        "BraTS2021_01739/BraTS2021_01739_t1ce.nii.gz",
+        "BraTS2021_01739/BraTS2021_01739_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01740/BraTS2021_01740_flair.nii.gz",
+        "BraTS2021_01740/BraTS2021_01740_t1.nii.gz",
+        "BraTS2021_01740/BraTS2021_01740_t1ce.nii.gz",
+        "BraTS2021_01740/BraTS2021_01740_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01741/BraTS2021_01741_flair.nii.gz",
+        "BraTS2021_01741/BraTS2021_01741_t1.nii.gz",
+        "BraTS2021_01741/BraTS2021_01741_t1ce.nii.gz",
+        "BraTS2021_01741/BraTS2021_01741_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01742/BraTS2021_01742_flair.nii.gz",
+        "BraTS2021_01742/BraTS2021_01742_t1.nii.gz",
+        "BraTS2021_01742/BraTS2021_01742_t1ce.nii.gz",
+        "BraTS2021_01742/BraTS2021_01742_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01743/BraTS2021_01743_flair.nii.gz",
+        "BraTS2021_01743/BraTS2021_01743_t1.nii.gz",
+        "BraTS2021_01743/BraTS2021_01743_t1ce.nii.gz",
+        "BraTS2021_01743/BraTS2021_01743_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01744/BraTS2021_01744_flair.nii.gz",
+        "BraTS2021_01744/BraTS2021_01744_t1.nii.gz",
+        "BraTS2021_01744/BraTS2021_01744_t1ce.nii.gz",
+        "BraTS2021_01744/BraTS2021_01744_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01745/BraTS2021_01745_flair.nii.gz",
+        "BraTS2021_01745/BraTS2021_01745_t1.nii.gz",
+        "BraTS2021_01745/BraTS2021_01745_t1ce.nii.gz",
+        "BraTS2021_01745/BraTS2021_01745_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01746/BraTS2021_01746_flair.nii.gz",
+        "BraTS2021_01746/BraTS2021_01746_t1.nii.gz",
+        "BraTS2021_01746/BraTS2021_01746_t1ce.nii.gz",
+        "BraTS2021_01746/BraTS2021_01746_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01747/BraTS2021_01747_flair.nii.gz",
+        "BraTS2021_01747/BraTS2021_01747_t1.nii.gz",
+        "BraTS2021_01747/BraTS2021_01747_t1ce.nii.gz",
+        "BraTS2021_01747/BraTS2021_01747_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01748/BraTS2021_01748_flair.nii.gz",
+        "BraTS2021_01748/BraTS2021_01748_t1.nii.gz",
+        "BraTS2021_01748/BraTS2021_01748_t1ce.nii.gz",
+        "BraTS2021_01748/BraTS2021_01748_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01749/BraTS2021_01749_flair.nii.gz",
+        "BraTS2021_01749/BraTS2021_01749_t1.nii.gz",
+        "BraTS2021_01749/BraTS2021_01749_t1ce.nii.gz",
+        "BraTS2021_01749/BraTS2021_01749_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01750/BraTS2021_01750_flair.nii.gz",
+        "BraTS2021_01750/BraTS2021_01750_t1.nii.gz",
+        "BraTS2021_01750/BraTS2021_01750_t1ce.nii.gz",
+        "BraTS2021_01750/BraTS2021_01750_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01751/BraTS2021_01751_flair.nii.gz",
+        "BraTS2021_01751/BraTS2021_01751_t1.nii.gz",
+        "BraTS2021_01751/BraTS2021_01751_t1ce.nii.gz",
+        "BraTS2021_01751/BraTS2021_01751_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01752/BraTS2021_01752_flair.nii.gz",
+        "BraTS2021_01752/BraTS2021_01752_t1.nii.gz",
+        "BraTS2021_01752/BraTS2021_01752_t1ce.nii.gz",
+        "BraTS2021_01752/BraTS2021_01752_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01753/BraTS2021_01753_flair.nii.gz",
+        "BraTS2021_01753/BraTS2021_01753_t1.nii.gz",
+        "BraTS2021_01753/BraTS2021_01753_t1ce.nii.gz",
+        "BraTS2021_01753/BraTS2021_01753_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01754/BraTS2021_01754_flair.nii.gz",
+        "BraTS2021_01754/BraTS2021_01754_t1.nii.gz",
+        "BraTS2021_01754/BraTS2021_01754_t1ce.nii.gz",
+        "BraTS2021_01754/BraTS2021_01754_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01755/BraTS2021_01755_flair.nii.gz",
+        "BraTS2021_01755/BraTS2021_01755_t1.nii.gz",
+        "BraTS2021_01755/BraTS2021_01755_t1ce.nii.gz",
+        "BraTS2021_01755/BraTS2021_01755_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01756/BraTS2021_01756_flair.nii.gz",
+        "BraTS2021_01756/BraTS2021_01756_t1.nii.gz",
+        "BraTS2021_01756/BraTS2021_01756_t1ce.nii.gz",
+        "BraTS2021_01756/BraTS2021_01756_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01757/BraTS2021_01757_flair.nii.gz",
+        "BraTS2021_01757/BraTS2021_01757_t1.nii.gz",
+        "BraTS2021_01757/BraTS2021_01757_t1ce.nii.gz",
+        "BraTS2021_01757/BraTS2021_01757_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01758/BraTS2021_01758_flair.nii.gz",
+        "BraTS2021_01758/BraTS2021_01758_t1.nii.gz",
+        "BraTS2021_01758/BraTS2021_01758_t1ce.nii.gz",
+        "BraTS2021_01758/BraTS2021_01758_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01759/BraTS2021_01759_flair.nii.gz",
+        "BraTS2021_01759/BraTS2021_01759_t1.nii.gz",
+        "BraTS2021_01759/BraTS2021_01759_t1ce.nii.gz",
+        "BraTS2021_01759/BraTS2021_01759_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01760/BraTS2021_01760_flair.nii.gz",
+        "BraTS2021_01760/BraTS2021_01760_t1.nii.gz",
+        "BraTS2021_01760/BraTS2021_01760_t1ce.nii.gz",
+        "BraTS2021_01760/BraTS2021_01760_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01761/BraTS2021_01761_flair.nii.gz",
+        "BraTS2021_01761/BraTS2021_01761_t1.nii.gz",
+        "BraTS2021_01761/BraTS2021_01761_t1ce.nii.gz",
+        "BraTS2021_01761/BraTS2021_01761_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01762/BraTS2021_01762_flair.nii.gz",
+        "BraTS2021_01762/BraTS2021_01762_t1.nii.gz",
+        "BraTS2021_01762/BraTS2021_01762_t1ce.nii.gz",
+        "BraTS2021_01762/BraTS2021_01762_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01763/BraTS2021_01763_flair.nii.gz",
+        "BraTS2021_01763/BraTS2021_01763_t1.nii.gz",
+        "BraTS2021_01763/BraTS2021_01763_t1ce.nii.gz",
+        "BraTS2021_01763/BraTS2021_01763_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01764/BraTS2021_01764_flair.nii.gz",
+        "BraTS2021_01764/BraTS2021_01764_t1.nii.gz",
+        "BraTS2021_01764/BraTS2021_01764_t1ce.nii.gz",
+        "BraTS2021_01764/BraTS2021_01764_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01765/BraTS2021_01765_flair.nii.gz",
+        "BraTS2021_01765/BraTS2021_01765_t1.nii.gz",
+        "BraTS2021_01765/BraTS2021_01765_t1ce.nii.gz",
+        "BraTS2021_01765/BraTS2021_01765_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01766/BraTS2021_01766_flair.nii.gz",
+        "BraTS2021_01766/BraTS2021_01766_t1.nii.gz",
+        "BraTS2021_01766/BraTS2021_01766_t1ce.nii.gz",
+        "BraTS2021_01766/BraTS2021_01766_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01767/BraTS2021_01767_flair.nii.gz",
+        "BraTS2021_01767/BraTS2021_01767_t1.nii.gz",
+        "BraTS2021_01767/BraTS2021_01767_t1ce.nii.gz",
+        "BraTS2021_01767/BraTS2021_01767_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01768/BraTS2021_01768_flair.nii.gz",
+        "BraTS2021_01768/BraTS2021_01768_t1.nii.gz",
+        "BraTS2021_01768/BraTS2021_01768_t1ce.nii.gz",
+        "BraTS2021_01768/BraTS2021_01768_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01769/BraTS2021_01769_flair.nii.gz",
+        "BraTS2021_01769/BraTS2021_01769_t1.nii.gz",
+        "BraTS2021_01769/BraTS2021_01769_t1ce.nii.gz",
+        "BraTS2021_01769/BraTS2021_01769_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01770/BraTS2021_01770_flair.nii.gz",
+        "BraTS2021_01770/BraTS2021_01770_t1.nii.gz",
+        "BraTS2021_01770/BraTS2021_01770_t1ce.nii.gz",
+        "BraTS2021_01770/BraTS2021_01770_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01771/BraTS2021_01771_flair.nii.gz",
+        "BraTS2021_01771/BraTS2021_01771_t1.nii.gz",
+        "BraTS2021_01771/BraTS2021_01771_t1ce.nii.gz",
+        "BraTS2021_01771/BraTS2021_01771_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01772/BraTS2021_01772_flair.nii.gz",
+        "BraTS2021_01772/BraTS2021_01772_t1.nii.gz",
+        "BraTS2021_01772/BraTS2021_01772_t1ce.nii.gz",
+        "BraTS2021_01772/BraTS2021_01772_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01773/BraTS2021_01773_flair.nii.gz",
+        "BraTS2021_01773/BraTS2021_01773_t1.nii.gz",
+        "BraTS2021_01773/BraTS2021_01773_t1ce.nii.gz",
+        "BraTS2021_01773/BraTS2021_01773_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01774/BraTS2021_01774_flair.nii.gz",
+        "BraTS2021_01774/BraTS2021_01774_t1.nii.gz",
+        "BraTS2021_01774/BraTS2021_01774_t1ce.nii.gz",
+        "BraTS2021_01774/BraTS2021_01774_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01775/BraTS2021_01775_flair.nii.gz",
+        "BraTS2021_01775/BraTS2021_01775_t1.nii.gz",
+        "BraTS2021_01775/BraTS2021_01775_t1ce.nii.gz",
+        "BraTS2021_01775/BraTS2021_01775_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01776/BraTS2021_01776_flair.nii.gz",
+        "BraTS2021_01776/BraTS2021_01776_t1.nii.gz",
+        "BraTS2021_01776/BraTS2021_01776_t1ce.nii.gz",
+        "BraTS2021_01776/BraTS2021_01776_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01777/BraTS2021_01777_flair.nii.gz",
+        "BraTS2021_01777/BraTS2021_01777_t1.nii.gz",
+        "BraTS2021_01777/BraTS2021_01777_t1ce.nii.gz",
+        "BraTS2021_01777/BraTS2021_01777_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01778/BraTS2021_01778_flair.nii.gz",
+        "BraTS2021_01778/BraTS2021_01778_t1.nii.gz",
+        "BraTS2021_01778/BraTS2021_01778_t1ce.nii.gz",
+        "BraTS2021_01778/BraTS2021_01778_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01779/BraTS2021_01779_flair.nii.gz",
+        "BraTS2021_01779/BraTS2021_01779_t1.nii.gz",
+        "BraTS2021_01779/BraTS2021_01779_t1ce.nii.gz",
+        "BraTS2021_01779/BraTS2021_01779_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01780/BraTS2021_01780_flair.nii.gz",
+        "BraTS2021_01780/BraTS2021_01780_t1.nii.gz",
+        "BraTS2021_01780/BraTS2021_01780_t1ce.nii.gz",
+        "BraTS2021_01780/BraTS2021_01780_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01781/BraTS2021_01781_flair.nii.gz",
+        "BraTS2021_01781/BraTS2021_01781_t1.nii.gz",
+        "BraTS2021_01781/BraTS2021_01781_t1ce.nii.gz",
+        "BraTS2021_01781/BraTS2021_01781_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01782/BraTS2021_01782_flair.nii.gz",
+        "BraTS2021_01782/BraTS2021_01782_t1.nii.gz",
+        "BraTS2021_01782/BraTS2021_01782_t1ce.nii.gz",
+        "BraTS2021_01782/BraTS2021_01782_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01783/BraTS2021_01783_flair.nii.gz",
+        "BraTS2021_01783/BraTS2021_01783_t1.nii.gz",
+        "BraTS2021_01783/BraTS2021_01783_t1ce.nii.gz",
+        "BraTS2021_01783/BraTS2021_01783_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01784/BraTS2021_01784_flair.nii.gz",
+        "BraTS2021_01784/BraTS2021_01784_t1.nii.gz",
+        "BraTS2021_01784/BraTS2021_01784_t1ce.nii.gz",
+        "BraTS2021_01784/BraTS2021_01784_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01785/BraTS2021_01785_flair.nii.gz",
+        "BraTS2021_01785/BraTS2021_01785_t1.nii.gz",
+        "BraTS2021_01785/BraTS2021_01785_t1ce.nii.gz",
+        "BraTS2021_01785/BraTS2021_01785_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01786/BraTS2021_01786_flair.nii.gz",
+        "BraTS2021_01786/BraTS2021_01786_t1.nii.gz",
+        "BraTS2021_01786/BraTS2021_01786_t1ce.nii.gz",
+        "BraTS2021_01786/BraTS2021_01786_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01787/BraTS2021_01787_flair.nii.gz",
+        "BraTS2021_01787/BraTS2021_01787_t1.nii.gz",
+        "BraTS2021_01787/BraTS2021_01787_t1ce.nii.gz",
+        "BraTS2021_01787/BraTS2021_01787_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01788/BraTS2021_01788_flair.nii.gz",
+        "BraTS2021_01788/BraTS2021_01788_t1.nii.gz",
+        "BraTS2021_01788/BraTS2021_01788_t1ce.nii.gz",
+        "BraTS2021_01788/BraTS2021_01788_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01789/BraTS2021_01789_flair.nii.gz",
+        "BraTS2021_01789/BraTS2021_01789_t1.nii.gz",
+        "BraTS2021_01789/BraTS2021_01789_t1ce.nii.gz",
+        "BraTS2021_01789/BraTS2021_01789_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01790/BraTS2021_01790_flair.nii.gz",
+        "BraTS2021_01790/BraTS2021_01790_t1.nii.gz",
+        "BraTS2021_01790/BraTS2021_01790_t1ce.nii.gz",
+        "BraTS2021_01790/BraTS2021_01790_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01791/BraTS2021_01791_flair.nii.gz",
+        "BraTS2021_01791/BraTS2021_01791_t1.nii.gz",
+        "BraTS2021_01791/BraTS2021_01791_t1ce.nii.gz",
+        "BraTS2021_01791/BraTS2021_01791_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01792/BraTS2021_01792_flair.nii.gz",
+        "BraTS2021_01792/BraTS2021_01792_t1.nii.gz",
+        "BraTS2021_01792/BraTS2021_01792_t1ce.nii.gz",
+        "BraTS2021_01792/BraTS2021_01792_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01793/BraTS2021_01793_flair.nii.gz",
+        "BraTS2021_01793/BraTS2021_01793_t1.nii.gz",
+        "BraTS2021_01793/BraTS2021_01793_t1ce.nii.gz",
+        "BraTS2021_01793/BraTS2021_01793_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01794/BraTS2021_01794_flair.nii.gz",
+        "BraTS2021_01794/BraTS2021_01794_t1.nii.gz",
+        "BraTS2021_01794/BraTS2021_01794_t1ce.nii.gz",
+        "BraTS2021_01794/BraTS2021_01794_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01795/BraTS2021_01795_flair.nii.gz",
+        "BraTS2021_01795/BraTS2021_01795_t1.nii.gz",
+        "BraTS2021_01795/BraTS2021_01795_t1ce.nii.gz",
+        "BraTS2021_01795/BraTS2021_01795_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01796/BraTS2021_01796_flair.nii.gz",
+        "BraTS2021_01796/BraTS2021_01796_t1.nii.gz",
+        "BraTS2021_01796/BraTS2021_01796_t1ce.nii.gz",
+        "BraTS2021_01796/BraTS2021_01796_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01797/BraTS2021_01797_flair.nii.gz",
+        "BraTS2021_01797/BraTS2021_01797_t1.nii.gz",
+        "BraTS2021_01797/BraTS2021_01797_t1ce.nii.gz",
+        "BraTS2021_01797/BraTS2021_01797_t2.nii.gz"
+      ]
+    },
+    {
+      "fold": -1,
+      "image": [
+        "BraTS2021_01798/BraTS2021_01798_flair.nii.gz",
+        "BraTS2021_01798/BraTS2021_01798_t1.nii.gz",
+        "BraTS2021_01798/BraTS2021_01798_t1ce.nii.gz",
+        "BraTS2021_01798/BraTS2021_01798_t2.nii.gz"
+      ]
+    }
+  ]
+}
