@@ -211,9 +211,6 @@ def norm_image(img, NORM_TYP="norm"):
 
 def cross_entropy(x, y, α=0.9):
     student_probs = torch.sigmoid(x)
-    # mask = ((0.5 + α > y) & (y >= 0.5)) | ((0.5 > y) & (y > 0.5 - α))
-    # y[mask] = 1 - y[mask]
-
     student_entropy = - y * torch.log(student_probs + 1e-10)  # student entropy, (bsz, )
     _y = torch.ones_like(y)
     _y[y >= α] = 0.
@@ -224,12 +221,6 @@ def cross_entropy(x, y, α=0.9):
 
 def kl_div(x, y):
     input = (torch.sigmoid(x) + 1e-10)
-    ''' 
-        为了防止KL散度计算为负数，将每个通道扩展一个,保证和为1，
-        inpu[:,0,...]+inpu[:,3,...]=1
-        inpu[:,1,...]+inpu[:,4,...]=1
-        inpu[:,2,...]+inpu[:,5,...]=1
-    '''
     input = torch.cat([input, 1 - input], dim=1)
     target = torch.sigmoid(y)
     target = torch.cat([target, 1 - target], dim=1)

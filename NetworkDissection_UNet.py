@@ -110,26 +110,25 @@ if __name__ == '__main__':
         data, target = data.cuda(), target.cuda()
         # student_logits = student_model(data)
         student_logits = student_model.student(data)
-        # 1.求阈值
+        # 1.calculate threshold
         feas0 = torch.cat([fea_hooks[0].fea, fea_hooks[1].fea, fea_hooks[2].fea, fea_hooks[3].fea], dim=1)
         thresholds = quantile_threshold(torch.relu(feas0))
-        # 2.将激活图恢复到与label相同尺寸
+        # 2.resize the activation map to match the label size.
         feas0 = torch.nn.functional.interpolate(feas0, (128, 128, 128), mode="trilinear", align_corners=True)
-        # 3.根据阈值生成one_hot分割图
+        # 3.Generate a one-hot segmentation map based on a threshold.
         for i in range(feas0.size()[1]):
-            indexes = feas0[:, i] > thresholds[i]  # 3.根据阈值生成one_hot分割图
-            # 4.分别每个计算激活图与WT、TC、ET的交集和并集
+            indexes = feas0[:, i] > thresholds[i]
+            # 4.Calculate the intersection and union of the activation map with WT, TC, and ET separately.
             y_o = torch.sum(target[0], dim=(1, 2, 3))  #
             y_pred_o = torch.sum(indexes, dim=(1, 2, 3))
             y_pred_o = torch.cat([y_pred_o, y_pred_o, y_pred_o], dim=0)
             intersection = torch.sum(torch.cat([indexes, indexes, indexes], dim=0) * target[0], dim=(1, 2, 3))
             union = y_o + y_pred_o - intersection
-            # 5.将计算的交并集保存
+            # 5.Save the calculated intersection and union
             intersections[i] += intersection
             unions[i] += union
-    # 6.在全部数据集上计算每个激活图的IoU
+    # 6.Calculate the Intersection over Union (IoU) for each activation map across the entire dataset
     IoU = intersections / unions
-    # 7.在全部数据集上计算每个激活图的IoU
     is_detector = IoU > 0.04
     detector_sum = is_detector.sum(dim=0)
     print(detector_sum)

@@ -133,12 +133,11 @@ if __name__ == '__main__':
             y_pred_o = torch.cat([y_pred_o, y_pred_o, y_pred_o], dim=0)
             intersection = torch.sum(torch.cat([indexes, indexes, indexes], dim=0) * target[0], dim=(1, 2, 3))
             union = y_o + y_pred_o - intersection
-            # 5.将计算的交并集保存
+            # 5.Save the calculated intersection and union
             intersections[i] += intersection
             unions[i] += union
-    # 6.Save the calculated intersection and union
+    # 6.Calculate the Intersection over Union (IoU) for each activation map across the entire dataset
     IoU = intersections / unions
-    # 7.Calculate the Intersection over Union (IoU) for each activation map across the entire dataset
     is_detector = IoU > 0.04
     detector_sum = is_detector.sum(dim=0)
     print(detector_sum)

@@ -87,10 +87,7 @@ class SemanticSegmentationTarget:
         return (model_output[self.category, :, :] * self.mask).sum()
 
 
-# 获取需要可视化的层
 target_layers = [model.model.__getitem__(-1).__getitem__(0)]
-# car_mask_float保存的是car的分割图，只有0和1，SemanticSegmentationTarget则是为了获取
-# targets = [SemanticSegmentationTarget(car_category, car_mask_float)]
 with GradCAM(model=model,
              target_layers=target_layers,
              use_cuda=False) as cam:

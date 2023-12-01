@@ -39,12 +39,11 @@ class UncertaintyTeacherKDForSequenceClassification(nn.Module):
             student_logits = self.student(inputs)
             return student_logits
         if self.dy_loss:
-            kd_loss = dynamic_kd_loss(student_logits, teacher_logits, self.temperature)  # 蒸馏损失
+            kd_loss = dynamic_kd_loss(student_logits, teacher_logits, self.temperature)
         else:
-            kd_loss = kd_loss_f(student_logits, teacher_logits, self.temperature)  # 蒸馏损失
-        entropy_loss = cross_entropy(student_logits, torch.sigmoid(teacher_logits), self.α).mean()  # 交叉熵损失
-        # entropy_loss = cross_entropy(student_logits, labels * 1.0).mean() # 交叉熵损失
-        dice_loss = self.loss_func(student_logits, labels)  # dice 损失
+            kd_loss = kd_loss_f(student_logits, teacher_logits, self.temperature)
+        entropy_loss = cross_entropy(student_logits, torch.sigmoid(teacher_logits), self.α).mean()
+        dice_loss = self.loss_func(student_logits, labels)
         if self.en_alpha != 0.:
             loss += self.en_alpha * entropy_loss
         loss += self.ce_alpha * dice_loss
