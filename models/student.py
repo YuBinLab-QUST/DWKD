@@ -13,7 +13,7 @@ class UncertaintyTeacherKDForSequenceClassification(nn.Module):
                  kd_alpha=0.5,
                  ce_alpha=0.5,
                  en_alpha=0.,
-                 α=0.9,
+                 t=0.9,
                  loss_func=None,
                  temperature=5.0,
                  student=None,
@@ -29,7 +29,7 @@ class UncertaintyTeacherKDForSequenceClassification(nn.Module):
         self.loss_func = loss_func
         self.ende = ende
         self.dy_loss = dy_loss
-        self.α = α
+        self.t = t
 
     def forward(self, inputs=None, labels=None, teacher_logits=None):
         loss = 0.
@@ -42,7 +42,7 @@ class UncertaintyTeacherKDForSequenceClassification(nn.Module):
             kd_loss = dynamic_kd_loss(student_logits, teacher_logits, self.temperature)
         else:
             kd_loss = kd_loss_f(student_logits, teacher_logits, self.temperature)
-        entropy_loss = cross_entropy(student_logits, torch.sigmoid(teacher_logits), self.α).mean()
+        entropy_loss = cross_entropy(student_logits, torch.sigmoid(teacher_logits), self.t).mean()
         dice_loss = self.loss_func(student_logits, labels)
         if self.en_alpha != 0.:
             loss += self.en_alpha * entropy_loss

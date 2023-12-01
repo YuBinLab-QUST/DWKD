@@ -209,11 +209,11 @@ def norm_image(img, NORM_TYP="norm"):
         img = (img - np.min(img))/img_ptp
     return img
 
-def cross_entropy(x, y, α=0.9):
+def cross_entropy(x, y, t=0.9):
     student_probs = torch.sigmoid(x)
     student_entropy = - y * torch.log(student_probs + 1e-10)  # student entropy, (bsz, )
     _y = torch.ones_like(y)
-    _y[y >= α] = 0.
+    _y[y >= t] = 0.
     student_entropy += - _y * torch.log((1 - student_probs) + 1e-10)
 
     return student_entropy

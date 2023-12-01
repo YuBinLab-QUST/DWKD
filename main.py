@@ -25,7 +25,6 @@ from monai.metrics import DiceMetric
 from monai.networks.nets import UNet
 from monai.transforms import AsDiscrete, Activations
 from monai.utils.enums import MetricReduction
-
 from models.student import UncertaintyTeacherKDForSequenceClassification
 from optimizers.lr_scheduler import LinearWarmupCosineAnnealingLR
 from trainer import run_training
@@ -42,7 +41,7 @@ parser.add_argument('--data_dir', type=str, default="datasetsDir",
                     help='dataset directory')
 parser.add_argument('--json_list', type=str, default="./jsons/brats20_folds.json", help='dataset json file')
 parser.add_argument('--save_checkpoint', action='store_true', help='save checkpoint during training')
-parser.add_argument('--max_epochs', default=1000, type=int, help='max number of training epochs')
+parser.add_argument('--max_epochs', default=2000, type=int, help='max number of training epochs')
 parser.add_argument('--batch_size', default=1, type=int, help='number of batch size')
 parser.add_argument('--sw_batch_size', default=4, type=int, help='number of sliding window batch size')
 parser.add_argument('--optim_lr', default=8e-4, type=float, help='optimization learning rate')
@@ -102,6 +101,7 @@ parser.add_argument('--dy_loss', action='store_true', help='use squa')
 parser.add_argument('--CUDA_VISIBLE_DEVICES', type=str, default="0", help='uncertainty mode')
 parser.add_argument('--channels', type=int, nargs='+', help='uncertainty mode')
 parser.add_argument('--strides', type=int, nargs='+', help='uncertainty mode')
+parser.add_argument('--t', default=1.0, type=float, help='sliding window inference overlap')
 
 
 def main():
@@ -202,6 +202,7 @@ def main_worker(gpu, args):
         kd_alpha=args.kd_alpha,
         ce_alpha=args.ce_alpha,
         en_alpha=args.en_alpha,
+        t=args.t,
         loss_func=dice_loss,
         student=student_model,
         temperature=args.temperature,
